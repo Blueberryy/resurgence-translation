@@ -9,13 +9,13 @@ local lang = RSRG.Languages["ru"]
 
 -- Mission Board
 lang["#MISSION_BOARD_ASHLANDS"] = "Доска заданий Эшлэнд"
-lang["#MISSION_BOARD_ASHLANDS_SUBTITLE"] = "Задания и работы"
+lang["#MISSION_BOARD_ASHLANDS_SUBTITLE"] = "Задания и поручения"
 lang["#MISSION_BOARD_ASHLANDS_GREET"] = "Эта доска содержит несколько документов с заданиями от людей, которые хотят нанять других людей в этой области для их выполнения. Вы можете принять любую работу, которая соответствует вашим требованиям.\n\n\nСписок доступных заданий приведён ниже."
 
 -- Missions
 lang["#MISSION_ASHLANDS_SIMPLELEATHER"] = "Простая кожа"
 lang["#MISSION_ASHLANDS_SIMPLELEATHER_DESC"] = "Наниматель ищет кого-то, кто добудет немного кожи для него. Он предлагает достойное вознаграждение за это."
-lang["#MISSION_ASHLANDS_SIMPLELEATHER_HINT"] = "Получить кожу. Вы можете получить кожу при поиске, ломая предметы из кожи, или используя кожу геккона / когтя смерти, чтобы сделать это."
+lang["#MISSION_ASHLANDS_SIMPLELEATHER_HINT"] = "Получите кожу. Вы можете получить кожу при поиске, ломая предметы из кожи, или используя кожу геккона / когтя смерти, чтобы сделать это."
 lang["#MISSION_ASHLANDS_SIMPLELEATHER_COMPLETE"] = "Вы выполнили это задание."
 
 lang["#MISSION_ASHLANDS_DONATE"] = "Спонсорство Каскадного каравана"
@@ -37,5 +37,10 @@ lang["#MISSION_ASHLANDS_BUNKERSALVATION"] = "Спасение бункера"
 lang["#MISSION_ASHLANDS_BUNKERSALVATION_DESC"] = "Человеку, который прикрепил это, нужен тот, кто отправится в бункер, чтобы убрать всех супермутантов, которые там обитают."
 lang["#MISSION_ASHLANDS_BUNKERSALVATION_HINT"] = "Уничтожьте супермутанта любого типа в бункере в Эшлэнде. Бункер можно найти под заправочной станцией в углу региона."
 lang["#MISSION_ASHLANDS_BUNKERSALVATION_COMPLETE"] = "Вы выполнили это задание."
+
+lang["#MISSION_ASHLANDS_PUTTHEMINTHEGROUND"] = "Зарыть их в землю"
+lang["#MISSION_ASHLANDS_PUTTHEMINTHEGROUND_DESC"] = "Мы замечаем винтокрылов, летающие туда-сюда, и много перемещений Анклава - с этим нужно разобраться. Они, без сомнения, самая опасная сила в Пустоши."
+lang["#MISSION_ASHLANDS_PUTTHEMINTHEGROUND_HINT"] = "Убейте 20 солдат Анклава"
+lang["#MISSION_ASHLANDS_PUTTHEMINTHEGROUND_COMPLETE"] = "Вы выполнили это задание."
 
 RELOADSCHEMA = true
