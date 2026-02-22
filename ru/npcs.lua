@@ -210,6 +210,8 @@ lang["#NPC_FERALGHOULS"] = "Диких гулей"
 lang["#NPC_FERALGHOUL_REAVER"] = "Дикий гуль-потрошитель"
 lang["#NPC_FERALGHOUL_REAVERS"] = "Диких гулей-потрошителей"
 
+lang["#NPC_FLAYEDONE"] = "Освежеватель"
+
 lang["#NPC_FERALRIFLEMAN"] = "Дикий карабинер"
 lang["#NPC_FERALMARKSMAN"] = "Дикий стрелок"
 lang["#NPC_FERALSNIPER"] = "Дикий снайпер"
@@ -223,77 +225,94 @@ lang["#NPC_BANDITS"] = "Рейдеров"
 --80s tribe
 lang["#NPC_80SBANDIT"] = "Рейдер племени 80-х"
 lang["#NPC_80SBANDITS"] = "Рейдеров племени 80-х"
-lang["#NPC_80SBANDIT_RANK1"] = "Панк племени 80-х"
-lang["#NPC_80SBANDIT_RANK2"] = "Рейдер племени 80-х"
-lang["#NPC_80SBANDIT_RANK2_OVERWATCH"] = "Дальнобойщик племени 80-х" -- A "Long Hauler" is an individual or vehicle that is involved in lengthy, long distance cargo trips
-lang["#NPC_80SBANDIT_RANK3"] = "Разбойник племени 80-х" -- a "Highwayman" is a name for a thief who opperates near commonly traveled roads
-lang["#NPC_80SBANDIT_RANK4"] = "Грабитель племени 80-х" -- another name for a "highwayman"
-lang["#NPC_80SBANDIT_RANK5"] = "Тягач племени 80-х" -- a "Big Rig" is a nickname for a Semitruck, the kind used to haul large cargo trailers
-lang["#NPC_80SBANDIT_BOSS"] = "Капитан гироскопа племени 80-х" -- Mad Max reference
-lang["#NPC_80SBANDIT_RANK6"] = "Локомотив племени 80-х"
+lang["#NPC_80SBANDIT_RANK1"] = "Панк"
+lang["#NPC_80SBANDIT_RANK2"] = "Рейдер"
+lang["#NPC_80SBANDIT_RANK2_OVERWATCH"] = "Дальнобойщик" -- A "Long Hauler" is an individual or vehicle that is involved in lengthy, long distance cargo trips
+lang["#NPC_80SBANDIT_RANK3"] = "Гоп-стопщик" -- a "Highwayman" is a name for a thief who opperates near commonly traveled roads
+lang["#NPC_80SBANDIT_RANK4"] = "Дорожник" -- another name for a "highwayman"
+lang["#NPC_80SBANDIT_RANK5"] = "Тягач" -- a "Big Rig" is a nickname for a Semitruck, the kind used to haul large cargo trailers
+lang["#NPC_80SBANDIT_BOSS"] = "Капитан гироскопа" -- Mad Max reference
+lang["#NPC_80SBANDIT_RANK6"] = "Локомотив"
 -- New California Republic
 lang["#NPC_NCRTROOPER"] = "Солдат НКР"
 lang["#NPC_NCRTROOPERS"] = "Солдатов НКР"
+lang["#NPC_NCRSOLDIER"] = "Солдат"
 lang["#NPC_NCRQUARTERMASTER"] = "Интендант Гектор"
-lang["#NPC_NCRPATROLRANGER1"] = "Рейнджер-патрульный НКР"
-lang["#NPC_NCRPATROLRANGER2"] = "Рейнджер-патрульный НКР"
-lang["#NPC_NCRPATROLRANGER3"] = "Рейнджер-патрульный НКР"
-lang["#NPC_NCRVETERANRANGERS"] = "Рейнджеров-ветеранов НКР"
-lang["#NPC_ARMORYQUARTERMASTER"] = "Интендант подавления беспорядков"
+lang["#NPC_NCRARMORYQUARTERMASTER"] = "Капитан Барнс"
+lang["#NPC_NCRPATROLRANGER"] = "Рейнджер-патрульный"
+lang["#NPC_NCRHEAVYTROOPER"] = "Тяжеловооружённый боец"
+lang["#NPC_NCRHEAVYGUNNER"] = "Тяжёлый пулемётчик"
+lang["#NPC_NCRRIOTTROOPER"] = "Солдат-полицейский"
+lang["#NPC_NCRRIOTOFFICER"] = "Офицер-полицейский"
+lang["#NPC_NCRVETERANRANGER"] = "Офицер-полицейский-ветеран"
+lang["#NPC_NCRLIEUTENANT"] = "Лейтенант"
+lang["#NPC_NCRCAPTAIN"] = "Капитан"
+lang["#NPC_NCRGUARD"] = "Охранник"
+lang["#NPC_NCRHEAVYGUARD"] = "Тяжёлый охранник"
+lang["#NPC_NCRRIOTGUARD"] = "Охранник-полицейский"
 -- Desert Rangers
 lang["#NPC_DESERTRANGER"] = "Пустынный рейнджер"
 lang["#NPC_DESERTRANGERS"] = "Пустынных рейнджеров"
-lang["#NPC_DESERTRANGER_RANK1"] = "Разведчик Пустынных рейнджеров"
-lang["#NPC_DESERTRANGER_RANK2"] = "Патрульный Пустынных рейнджеров"
-lang["#NPC_DESERTRANGER_RANK3"] = "Надзиратель Пустынных рейнджеров"
-lang["#NPC_DESERTRANGER_RANK4"] = "Ветеран Пустынных рейнджеров"
-lang["#NPC_DESERTRANGER_RANK5"] = "Ветеран-надзиратель Пустынных рейнджеров"
+lang["#NPC_DESERTRANGER_RANK1"] = "Кустарник"
+lang["#NPC_DESERTRANGER_RANK2"] = "Разведчик"
+lang["#NPC_DESERTRANGER_RANK3"] = "Надзиратель"
+lang["#NPC_DESERTRANGER_RANK4"] = "Ветеран-рейнджер"
+lang["#NPC_DESERTRANGER_RANK5"] = "Ветеран-надзиратель"
 -- Valley Survivalist
 lang["#NPC_SURVIVALIST"] = "Уцелевший долины"
 lang["#NPC_SURVIVALISTS"] = "Уцелевших долины"
-lang["#NPC_SURVIVALIST_RANK1"] = "Поселенец долины"
-lang["#NPC_SURVIVALIST_RANK2"] = "Повстанец долины"
-lang["#NPC_SURVIVALIST_RANK3"] = "Снайпер долины"
+lang["#NPC_SURVIVALIST_RANK1"] = "Поселенец"
+lang["#NPC_SURVIVALIST_RANK2"] = "Ополченец"
+lang["#NPC_SURVIVALIST_RANK3"] = "Снайпер"
 lang["#NPC_SURVIVALIST_RANK4"] = "Одноглазый стрелок долины"
-lang["#NPC_SURVIVALIST_RANK5"] = "Пограничник-боец долины"
-lang["#NPC_SURVIVALIST_BOSS"] = "Капитан повстанцев долины"
+lang["#NPC_SURVIVALIST_RANK5"] = "Пограничник-боец"
+lang["#NPC_SURVIVALIST_BOSS"] = "Капитан ополченцев"
 -- Ice Picks
 lang["#NPC_ICEPICKBANDIT"] = "Рейдер Ледорубов" -- "Ice Pick", as in the tool
 lang["#NPC_ICEPICKBANDITS"] = "Рейдеров Ледорубов"
-lang["#NPC_ICEPICKBANDITSNIPERS"] = "Рейдеров-охотников за головами Ледорубов" --"Savage", as in a derogatory name for a primative
-lang["#NPC_ICEPICKBANDIT_RANK2_OVERWATCH"] = "Рейдер Ледорубов"
-lang["#NPC_ICEPICKBANDIT_RANK3"] = "Ловец людей Ледорубов" --"Man-Trapper", a name for someone who specializes in hunting and trapping people 
-lang["#NPC_ICEPICKBANDIT_RANK4"] = "Пожиратель плоти Ледорубов"
-lang["#NPC_ICEPICKBANDIT_RANK5"] = "Мизантроп Ледорубов" -- Disabled currently
-lang["#NPC_ICEPICKBANDIT_BOSS"] = "Мясник Ледорубов" -- Cannibal sounding name
+lang["#NPC_ICEPICKBANDITSNIPERS"] = "Рейдеров-головорезов Ледорубов" --"Savage", as in a derogatory name for a primative
+lang["#NPC_ICEPICKBANDIT_RANK1"] = "Каннибал"
+lang["#NPC_ICEPICKBANDIT_RANK2"] = "Головорез" --"Savage", as in a derogatory name for a primative
+lang["#NPC_ICEPICKBANDIT_RANK2_OVERWATCH"] = "Бандит"
+lang["#NPC_ICEPICKBANDIT_RANK3"] = "Ловец людей" --"Man-Trapper", a name for someone who specializes in hunting and trapping people 
+lang["#NPC_ICEPICKBANDIT_RANK4"] = "Пожиратель плоти"
+lang["#NPC_ICEPICKBANDIT_RANK5"] = "Мизантроп" -- Disabled currently
+lang["#NPC_ICEPICKBANDIT_BOSS"] = "Мясник" -- Cannibal sounding name
 --Rock-Biters
 lang["#NPC_ROCKBITERBANDIT"] = "Рейдер Камнеедов"
 lang["#NPC_ROCKBITERBANDITS"] = "Рейдеров Камнеедов"
-lang["#NPC_ROCKBITERBANDIT_RANK1"] = "Старатель Камнеедов"
-lang["#NPC_ROCKBITERBANDIT_RANK2"] = "Шахтёр Камнеедов"
-lang["#NPC_ROCKBITERBANDIT_RANK2_OVERWATCH"] = "Землемер Камнеедов"
-lang["#NPC_ROCKBITERBANDIT_RANK3"] = "Бульдозер Камнеедов"
-lang["#NPC_ROCKBITERBANDIT_RANK4"] = "Бригадир Камнеедов"
-lang["#NPC_ROCKBITERBANDIT_RANK5"] = "Разрушитель жил Камнеедов"
-lang["#NPC_ROCKBITERBANDIT_RANK6"] = "Мародёр Камнеедов"
---Smugglers
+lang["#NPC_ROCKBITERBANDIT_RANK1"] = "Старатель"
+lang["#NPC_ROCKBITERBANDIT_RANK2"] = "Шахтёр"
+lang["#NPC_ROCKBITERBANDIT_RANK2_OVERWATCH"] = "Землемер"
+lang["#NPC_ROCKBITERBANDIT_RANK3"] = "Бульдозер"
+lang["#NPC_ROCKBITERBANDIT_RANK4"] = "Бригадир"
+lang["#NPC_ROCKBITERBANDIT_RANK5"] = "Крушитель жил"
+lang["#NPC_ROCKBITERBANDIT_RANK6"] = "Мародёр"
+-- Smugglers
 lang["#NPC_SMUGGLERBANDIT"] = "Контрабандист"
 lang["#NPC_SMUGGLERRBANDITS"] = "Контрабандистов"
-lang["#NPC_SMUGGLERBANDIT_RANK1"] = "Бегун-контрабандист"
-lang["#NPC_SMUGGLERBANDIT_RANK2"] = "Торговец-контрабандист"
-lang["#NPC_SMUGGLERBANDIT_RANK2_OVERWATCH"] = "Разведчик-контрабандист"
-lang["#NPC_SMUGGLERBANDIT_RANK3"] = "Наркоделец-контрабандист"
-lang["#NPC_SMUGGLERBANDIT_RANK4"] = "Лунный пророк-контрабандист" --"Moon-Curser", a name for someone who smuggles contraband during the dark of night
-lang["#NPC_SMUGGLERBANDIT_RANK5"] = "Торговец смертью-контрабандист" --"Death Merchant", a derogatory name for an Arms/Weapons dealer
+lang["#NPC_SMUGGLERBANDIT_RANK1"] = "Бегун"
+lang["#NPC_SMUGGLERBANDIT_RANK2"] = "Делец"
+lang["#NPC_SMUGGLERBANDIT_RANK2_OVERWATCH"] = "Разведчик"
+lang["#NPC_SMUGGLERBANDIT_RANK3"] = "Наркоделец"
+lang["#NPC_SMUGGLERBANDIT_RANK4"] = "Лунный пророк" --"Moon-Curser", a name for someone who smuggles contraband during the dark of night
+lang["#NPC_SMUGGLERBANDIT_RANK5"] = "Торговец смертью" --"Death Merchant", a derogatory name for an Arms/Weapons dealer
 --Shadowed
 lang["#NPC_SHADOWEDBANDIT"] = "Рейдер Теней"
 lang["#NPC_SHADOWEDBANDITS"] = "Рейдеров Теней"
-lang["#NPC_SHADOWEDBANDIT_RANK1"] = "Халявщик Теней"
-lang["#NPC_SHADOWEDBANDIT_RANK2"] = "Похититель Теней"
-lang["#NPC_SHADOWEDBANDIT_RANK2_OVERWATCH"] = "Наводчик Теней"
-lang["#NPC_SHADOWEDBANDIT_RANK3"] = "Мародёр Теней"
-lang["#NPC_SHADOWEDBANDIT_RANK4"] = "Взломщик Теней"
-lang["#NPC_SHADOWEDBANDIT_RANK5"] = "Изгой Теней"
+lang["#NPC_SHADOWEDBANDIT_RANK1"] = "Халявщик"
+lang["#NPC_SHADOWEDBANDIT_RANK2"] = "Похититель"
+lang["#NPC_SHADOWEDBANDIT_RANK2_OVERWATCH"] = "Наводчик"
+lang["#NPC_SHADOWEDBANDIT_RANK3"] = "Мародёр"
+lang["#NPC_SHADOWEDBANDIT_RANK4"] = "Взломщик"
+lang["#NPC_SHADOWEDBANDIT_RANK5"] = "Изгой"
+lang["#NPC_SHADOWEDBANDIT_BOSS"] = "Клятвопреступник"
+
+-- Reavers
+
+lang["#NPC_REAVERSBANDIT"] = "Рейдер Разорителей"
+lang["#NPC_REAVERSBANDITS"] = "Рейдеров Разорителей"
+lang["#NPC_REAVERSBANDIT_RANK1"] = "Пионер"
 
 --Mercenaries
 lang["#NPC_MERC"] = "Наёмник"
@@ -301,52 +320,55 @@ lang["#NPC_MERCS"] = "Наёмников"
 lang["#NPC_MERCLEADER"] = "Лидер наёмников"
 lang["#NPC_MERCSNIPER"] = "Снайпер наёмников"
 
---Cipher Agents
+-- Cipher Agents
 lang["#NPC_CIPHERAGENT"] = "Агент Шифра"--------------------------------Cipher, General
 lang["#NPC_CIPHERAGENTS"] = "Агентов Шифра"--                           Cipher, Generals
-lang["#NPC_CIPHERAGENT_RANK1"] = "Интерн Шифра"--                       Intern
-lang["#NPC_CIPHERAGENT_RANK2"] = "Подрядчик Шифра"--                    Contractor
-lang["#NPC_CIPHERAGENT_RANK3"] = "Партнёр Шифра"--                      Associate
-lang["#NPC_CIPHERAGENT_RANK4"] = "Менеджер Шифра"--                     Manager
-lang["#NPC_CIPHERAGENT_RANK5"] = "Директор Шифра"--                     Executive
-lang["#NPC_CIPHERAGENT_SNIPER"] = "Дозорный Шифра"--                    Watcher, Sniper
-lang["#NPC_CIPHERAGENT_STEALTHSUIT_RANK1"] = "Убийца Шифра"--           Stealth Suit
-lang["#NPC_CIPHERAGENT_STEALTHSUIT_RANK1A"] = "Призрак Шифра"--         Stealth Suit
-lang["#NPC_CIPHERAGENT_STEALTHSUIT_RANK1B"] = "Фантом Шифра"------------Stealth Suit
+lang["#NPC_CIPHERAGENT_RANK1"] = "Интерн"--                             Intern
+lang["#NPC_CIPHERAGENT_RANK2"] = "Подрядчик"--                          Contractor
+lang["#NPC_CIPHERAGENT_RANK3"] = "Партнёр"--                            Associate
+lang["#NPC_CIPHERAGENT_RANK4"] = "Менеджер"--                           Manager
+lang["#NPC_CIPHERAGENT_RANK5"] = "Администратор"--                      Administrant
+lang["#NPC_CIPHERAGENT_RANK6"] = "Ликвидатор"---------------------------Liquidator
 -- Brotherhood of Steel
-lang["#NPC_BROTHERHOOD"] = "Солдатов Братства Стали" ----------------------Brotherhood, General
-lang["#NPC_BOS_SOLDIER_RANK1"] = "Младший послушник Братства Стали"-----Initiate
-lang["#NPC_BOS_SOLDIER_RANK1A"] = "Послушник Братства Стали"--          Initiate
-lang["#NPC_BOS_SOLDIER_RANK1B"] = "Старший послушник Братства Стали"--  Initiate
-lang["#NPC_BOS_SOLDIER_RANK1C"] = "Младший рыцарь Братства Стали"--     Knight
-lang["#NPC_BOS_SOLDIER_RANK1D"] = "Ученик-рыцарь Братства Стали"--      Knight
-lang["#NPC_BOS_SOLDIER_RANK2"] = "Рыцарь-курсант Братства Стали"--      Knight
-lang["#NPC_BOS_SOLDIER_RANK2A"] = "Старший рыцарь Братства Стали" --    Knight
-lang["#NPC_BOS_SOLDIER_RANK3"] = "Младший паладин Братства Стали"--     Paladin
-lang["#NPC_BOS_SOLDIER_RANK3A"] = "Паладин Братства Стали"--            Paladin
-lang["#NPC_BOS_SOLDIER_RANK4"] = "Старший паладин Братства Стали"--     Paladin
-lang["#NPC_BOS_SCRIBE_RANK1"] = "Младший скриптор Братства Стали" --       Scribe
-lang["#NPC_BOS_SCRIBE_RANK1A"] = "Ученик-скриптор Братства Стали" --       Scribe
-lang["#NPC_BOS_SCRIBE_RANK1B"] = "Скриптор-курсант Братства Стали" --      Scribe
-lang["#NPC_BOS_SCRIBE_RANK1C"] = "Старший скриптор Братства Стали"---------Scribe
+lang["#NPC_BROTHERHOOD"] = "Солдатов Братства Стали" -------------------Brotherhood, General
+lang["#NPC_BOS_SOLDIER_INITIATE1"] = "Младший послушник"--              Initiate
+lang["#NPC_BOS_SOLDIER_INITIATE2"] = "Послушник"--                      Initiate
+lang["#NPC_BOS_SOLDIER_INITIATE3"] = "Старший послушник"--              Initiate
+lang["#NPC_BOS_SOLDIER_KNIGHT1"] = "Младший рыцарь"--                   Knight
+lang["#NPC_BOS_SOLDIER_KNIGHT2"] = "Ученик-рыцарь"--                    Knight
+lang["#NPC_BOS_SOLDIER_KNIGHT3"] = "Рыцарь-курсант"--                   Knight
+lang["#NPC_BOS_SOLDIER_KNIGHT4"] = "Старший рыцарь" --                  Knight
+lang["#NPC_BOS_SOLDIER_PALADIN1"] = "Младший паладин"--                 Paladin
+lang["#NPC_BOS_SOLDIER_PALADIN2"] = "Паладин"--                         Paladin
+lang["#NPC_BOS_SOLDIER_PALADIN3"] = "Старший паладин"--                 Paladin
+lang["#NPC_BOS_SOLDIER_PALADIN4"] = "Украшенный паладин"--              Paladin
+lang["#NPC_BOS_SOLDIER_SCRIBE1"] = "Младший скриптор" --                Scribe
+lang["#NPC_BOS_SOLDIER_SCRIBE2"] = "Ученик-скриптор" --                 Scribe
+lang["#NPC_BOS_SOLDIER_SCRIBE3"] = "Скриптор-курсант" --                Scribe
+lang["#NPC_BOS_SOLDIER_SCRIBE4"] = "Старший скриптор" ------------------Scribe
 
 --Enclave
-lang["#NPC_ENCLAVE"] = "Анклав" --                                     Enclave, General
-lang["#NPC_ENCLAVERANK1"] = "Патрульный Анклава"------------------------Enclave Patrolman
-lang["#NPC_ENCLAVERANK1A"] = "Патрульный Анклава"--                     Enclave Patrolman
-lang["#NPC_ENCLAVERANK1B"] = "Патрульный Анклава"--                     Enclave Patrolman
-lang["#NPC_ENCLAVERANK1C"] = "Патрульный Анклава"--                     Enclave Patrolman
-lang["#NPC_ENCLAVERANK1D"] = "Патрульный Анклава"--                     Enclave Patrolman
-lang["#NPC_ENCLAVERANK1E"] = "Патрульный Анклава"--                     Enclave Patrolman
-lang["#NPC_ENCLAVERANK2"] = "Тяжёлый патрульный Анклава"--              Enclave Heavy Patrolman
-lang["#NPC_ENCLAVERANK3"] = "Тяжёлый патрульный Анклава"--              Enclave Heavy Patrolman
-lang["#NPC_ENCLAVESCIENTIST1"] = "Учёный Анклава"--                     Enclave Scientist
-lang["#NPC_ENCLAVESCIENTIST2"] = "Военный врач Анклава"--               Enclave Combat Medic
-lang["#NPC_ENCLAVESCIENTIST3"] = "Военный врач спецназа Анклава"--      Enclave Spec Ops Combat Medic
-lang["#NPC_ENCLAVESPECOPSRANK1"] = "Стрелок спецназа Анклава"--         Enclave Spec Ops
-lang["#NPC_ENCLAVESPECOPSRANK1A"] = "Тяжёлый стрелок спецназа Анклава"--Enclave Spec Ops
-lang["#NPC_ENCLAVESPECOPSRANK1B"] = "Снайпер спецназа Анклава"--        Enclave Spec Ops
-lang["#NPC_ENCLAVESPECOPSRANK1C"] = "Гранатомётчик спецназа Анклава"----Enclave Spec Ops
+lang["#NPC_ENCLAVE"] = "Анклав"
+lang["#NPC_ENCLAVE_SCOUT"] = "Солдат"
+lang["#NPC_ENCLAVE_RECON"] = "Солдат"
+lang["#NPC_ENCLAVE_PA"] = "Патрульный"
+lang["#NPC_ENCLAVE_PA_HEAVY"] = "Патрульный"
+lang["#NPC_ENCLAVE_PA_OFFICER"] = "Патрульный"
+lang["#NPC_ENCLAVE_OFFICER"] = "Офицер"
+lang["#NPC_ENCLAVE_OFFICER_INTEL"] = "Офицер-разведчик"
+lang["#NPC_ENCLAVE_SECRET_SERVICE"] = "Охранник секретной службы"
+lang["#NPC_ENCLAVE_SCIENTIST"] = "Учёный"
+lang["#NPC_ENCLAVE_COMBAT_MEDIC"] = "Военный врач"
+lang["#NPC_ENCLAVE_SPECOPS_SCIENTIST"] = "Военный врач-спецназовец"
+lang["#NPC_ENCLAVE_SPECOPS_GUNNER"] = "Пулемётчик-спецназовец"
+lang["#NPC_ENCLAVE_SPECOPS_PA"] = "Тяжёлый пулемётчик-спецназовец"
+lang["#NPC_ENCLAVE_SPECOPS_SNIPER"] = "Снайпер-спецназовец"
+lang["#NPC_ENCLAVE_SPECOPS_GRENADIER"] = "Гранатомётчик-спецназовец"
+lang["#NPC_ENCLAVE_ENDBOSS"] = "Фрэнк Хорриган"
+lang["#NPC_ENCLAVE_CITIZEN"] = "Гражданин"
+lang["#NPC_ENCLAVE_TECHNICIAN"] = "Техник"
+lang["#NPC_ENCLAVE_PA_GUARD_STATIC"] = "Охранник"
+lang["#NPC_ENCLAVE_QUARTERMASTER"] = "Интендант Кэмпбелл"
 
 
 -- Super Mutants
@@ -360,20 +382,20 @@ lang["#NPC_REJECTEDSM_RANK4"] = "Босс Отвергнутых"
 
 --The Reborn - Unity's Chosen Ghoul Soldiers
 lang["#NPC_REBORN"] = "Солдат Перерождения"
-lang["#NPC_REBORN_RANK1"] = "Послушник Перерождения"
-lang["#NPC_REBORN_RANK2"] = "Последователь Перерождения"
-lang["#NPC_REBORN_RANK3"] = "Оккультист Перерождения"
-lang["#NPC_REBORN_RANK4"] = "Флагеллант Перерождения"
-lang["#NPC_REBORN_RANK5"] = "Смотрителей Перерождения"
+lang["#NPC_REBORN_RANK1"] = "Послушник"
+lang["#NPC_REBORN_RANK2"] = "Последователь"
+lang["#NPC_REBORN_RANK3"] = "Оккультист"
+lang["#NPC_REBORN_RANK4"] = "Флагеллант"
+lang["#NPC_REBORN_RANK5"] = "Смотритель"
 --Unity's Chosen - Super Mutant Soldiers 
 lang["#NPC_CHOSEN"] = "Избранных солдат Единства"
-lang["#NPC_CHOSEN_SM_RANK1"] = "Избранный боец Единства"
-lang["#NPC_CHOSEN_SM_RANK2"] = "Избранный одиночка Единства"
-lang["#NPC_CHOSEN_SM_RANK3"] = "Избранный примус Единства"
-lang["#NPC_CHOSEN_SM_RANK4"] = "Избранный принудитель Единства"
-lang["#NPC_CHOSEN_SM_RANK5"] = "Избранный тень Единства"
-lang["#NPC_CHOSEN_SM_RANK6"] = "Избранный тень-охотник Единства"
-lang["#NPC_CHOSEN_SM_RANK7"] = "Избранный тень-босс Единства" -- Squad leaders, not necessarily NV style
+lang["#NPC_CHOSEN_SM_RANK1"] = "Боец"
+lang["#NPC_CHOSEN_SM_RANK2"] = "Одиночка"
+lang["#NPC_CHOSEN_SM_RANK3"] = "Примус"
+lang["#NPC_CHOSEN_SM_RANK4"] = "Принудитель"
+lang["#NPC_CHOSEN_SM_RANK5"] = "Тень"
+lang["#NPC_CHOSEN_SM_RANK6"] = "Тень-охотник"
+lang["#NPC_CHOSEN_SM_RANK7"] = "Тень-босс" -- Squad leaders, not necessarily NV style
 
 --Phoenix Company
 lang["#NPC_PHOENIXCOMPANY"] = "Компания \"Феникс\""
@@ -383,6 +405,28 @@ lang["#NPC_PHOENIX_CORPORAL"] = "Капрал"
 lang["#NPC_PHOENIX_SGT"] = "Сержант"
 lang["#NPC_PHOENIX_SSGT"] = "Штаб-сержант"
 lang["#NPC_PHOENIX_REDBERET"] = "Красный берет"
+lang["#NPC_PHOENIX_101ST"] = "Стрелок 101-го"
+lang["#NPC_PHOENIX_101STCQC"] = "Штурмовик 101-го"
+lang["#NPC_PHOENIX_101STHVY"] = "Специалист по оружию 101-го"
+lang["#NPC_PHOENIX_101STOF"] = "Капитан 101-го"
+
+-- Van Graff
+
+lang["#NPC_VANGRAFF"] = "Ван Графф"
+lang["#NPC_VANGRAFF_GUARD_RANK1"] = "Охранник каравана"
+lang["#NPC_VANGRAFF_GUARD_RANK2"] = "Солдат"
+lang["#NPC_VANGRAFF_GUARD_RANK3"] = "Принудитель"
+lang["#NPC_VANGRAFF_GUARD_RANK4"] = "Человек чести"
+lang["#NPC_VANGRAFF_ENGINEER_RANK1"] = "Ремесленник"
+lang["#NPC_VANGRAFF_ENGINEER_RANK2"] = "Купец"
+lang["#NPC_VANGRAFF_ENGINEER_RANK3"] = "Производитель"
+lang["#NPC_VANGRAFF_ENGINEER_RANK4"] = "Инженер"
+
+-- Followers of the Apocalypse
+
+lang["#NPC_FOLLOWERS"] = "Последователи Апокалипсиса"
+lang["#NPC_FOLLOWERS_MERC_01"] = "Вольный стрелок"
+lang["#NPC_FOLLOWERS_MERC_02"] = "Наёмник"
 
 -- ██████╗  ██████╗ ██████╗  ██████╗ ████████╗██╗ ██████╗
 -- ██╔══██╗██╔═══██╗██╔══██╗██╔═══██╗╚══██╔══╝██║██╔════╝
@@ -475,6 +519,12 @@ lang["#NPC_ROBOBRAIN_SCRAP_RANK3"] = "Кибернетический робом�
 
 lang["#NPC_DEATHCLAW"] = "Коготь смерти"
 lang["#NPC_DEATHCLAWS"] = "Когтей смерти"
+lang["#NPC_DEATHCLAW_RANK1"] = "Молодой коготь смерти"
+lang["#NPC_DEATHCLAW_RANK2"] = "Светящийся коготь смерти"
+lang["#NPC_DEATHCLAW_RANK3"] = "Коготь смерти-хамелеон"
+lang["#NPC_DEATHCLAW_RANK4"] = "Коготь смерти - самец-альфа"
+lang["#NPC_DEATHCLAW_RANK5"] = "Царица когтей смерти"
+lang["#NPC_DEATHCLAW_RANK6"] = "Коготь смерти-хамелеон - самец-альфа"
 
 lang["#NPC_GATORCLAW"] = "Крокодилокоготь"
 lang["#NPC_GATORCLAWS"] = "Крокодилокогтей"
@@ -486,7 +536,7 @@ lang["#NPC_GATORCLAW_RANK3"] = "Крокодилокоготь-потрошит�
 lang["#NPC_GATORCLAW_RANK4"] = "Крокодилокоготь-следопыт"
 lang["#NPC_GATORCLAW_RANK5"] = "Крокодилокоготь-альбинос"
 lang["#NPC_GATORCLAW_RANK6"] = "Светящийся крокодилокоготь"
-lang["#NPC_GATORCLAW_BOSS"] = "Кровокоготь"
+lang["#NPC_GATORCLAW_BOSS"] = "Пилозуб"
 lang["#NPC_SWAMPJAW_RANK1"] = "Болотоворот"
 lang["#NPC_SWAMPJAW_RANK2"] = "Болотоворот-засадник"
 lang["#NPC_SWAMPJAW_RANK3"] = "Болотоворот-смертокат"
@@ -507,3 +557,28 @@ lang["#NPC_ALIENS"] = "Чужих"
 -- ╚═╝     ╚═╝╚═╝╚══════╝ ╚═════╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝ ╚═════╝  ╚═════╝ ╚══════╝
 
 lang["#NPC_ENEMIES"] = "врагов"
+
+-- ███████╗██╗   ██╗███████╗███╗   ██╗████████╗███████╗
+-- ██╔════╝██║   ██║██╔════╝████╗  ██║╚══██╔══╝██╔════╝
+-- █████╗  ██║   ██║█████╗  ██╔██╗ ██║   ██║   ███████╗
+-- ██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║╚██╗██║   ██║   ╚════██║
+-- ███████╗ ╚████╔╝ ███████╗██║ ╚████║   ██║   ███████║
+-- ╚══════╝  ╚═══╝  ╚══════╝╚═╝  ╚═══╝   ╚═╝   ╚══════╝
+
+
+lang["#EVENT_RADROACH_BOSS_BROADCAST"] = "В канализации становится неспокойно..."
+lang["#EVENT_GIANTANT_BOSS_BROADCAST"] = "Из пещер доносится стрекот..."
+lang["#EVENT_YAOGUAI_BOSS_BROADCAST"] = "По горам разносится оглушительный рёв..."
+lang["#EVENT_DEATHCLAW_BOSS_BROADCAST"] = "Громкий рёв пронзает пепельные бури..."
+lang["#EVENT_MOLERAT_BOSS_BROADCAST"] = "В ближайшей пещере сдвигаются камни..."
+lang["#EVENT_WENDIGO_DEVOURER_BOSS_BROADCAST"] = "Холод пробегает по спине..."
+--lang["#EVENT_WENDIGO_FLAYED_BOSS_BROADCAST"] = "Чувствуется, что ночь будет ужасной..." REPLACED BELOW
+lang["#EVENT_NCR_CAPTAIN_BOSS_BROADCAST"] = "Капитан вступает в город с отрядом за спиной, вглядываясь в Пустошь."
+lang["#EVENT_NCR_RIOT_OFFICER_BOSS_BROADCAST"] = "Дисциплинированный офицер подавления беспорядков НКР выдвигается на позиции."
+lang["#EVENT_80S_PAIN_TRAIN_BOSS_BROADCAST"] = "В радио шипит помехами. Искажённый голос смеётся: — \"Все на борт, обитатели Пустоши!\""
+lang["#EVENT_ROCK_BITER_MARAUDER_BOSS_BROADCAST"] = "Тяжёлые шаги удаляются от шахт..."
+lang["#EVENT_BROTHERHOOD_PATROL_BROADCAST"] = "Рядом слышно потрескивание радио..."
+lang["#EVENT_CIPHER_PATROL_BROADCAST"] = "Незримая сила таится поблизости..."
+lang["#EVENT_DESERT_RANGER_VET_WARDEN_BROADCAST"] = "Под палящим солнцем сверкают стальные значки. Ветеран-надзиратель вышел в дозор, чтобы вершить суд над беззаконниками."
+lang["#EVENT_WENDIGO_FLAYEDONE_BOSS_BROADCAST"] = "Из шахт доносится пронзительный вопль..."
+lang["#EVENT_MIRELURK_KING_BOSS_BROADCAST"] = "Гортанный вой нарушает безмолвие пещер, и некогда спокойная вода словно наэлектризована."

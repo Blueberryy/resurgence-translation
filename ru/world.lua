@@ -66,6 +66,15 @@ lang["#REGION_SALEM_S"] = "Обрушенное здание"
 lang["#REGION_SALEM_NW"] = "Лагерь Уцелевших"
 lang["#REGION_SALEM_DESC"] = "Перед самой войной Салем пережил бурный рост населения и городского развития. Теперь же он представляет собой оболочку своего прежнего \"я\". Полицейские роботы патрулируют обветшавшие улицы, бандиты бродят в тени, супермутанты удерживают значительную часть города. Каскадный караван создал крупный торговый пункт, снабжающий тех, кто достаточно безумен, чтобы проникнуть в город и разграбить его богатейшие технологии и запасы."
 
+lang["#REGION_VAULTCITY"] = "Город Убежища"
+lang["#REGION_VAULTCITY_COURTYARD"] = "Пригород Города Убежища"
+
+lang["#REGION_CYTOSINE"] = "Исследовательский комплекс цитозину"
+lang["#REGION_CYTOSINE_CARTUNNEL"] = "Обрушенный автомобильный туннель"
+
+lang["#REGION_LIMA_DETACHMENT"] = "Замёрзшая пещера"
+lang["#REGION_LIMA_DETACHMENT_CAVE"] = "Вход в замёрзшую пещеру"
+
 -- Factions
 lang["#FACTION_NCR_NAME"] = "Новая Калифорнийская Республика"
 lang["#FACTION_NCR_DESC"] = "Новая Калифорнийская Республика, или НКР, начался как маленький городок в Северной Калифорнии. Теперь они представляют собой большую демократическую федерацию, которая распространилась по всему юго-западному побережью."
@@ -98,6 +107,9 @@ lang["#FACTION_BOS_NAME"] = "Братство Стали"
 lang["#FACTION_BOS_DESC"] = "Братство Стали - это техно-религиозная организация, занимающаяся сбором и обслуживанием передовых технологий, корни которой уходят в предвоенные американские вооружённые силы."
 lang["#FACTION_BOS_LEADER"] = "Эльдар"
 
+lang["#FACTION_MIDWESTBOS_NAME"] = "Среднезападные Оставшиеся"
+lang["#FACTION_MIDWESTBOS_DESC"] = "Отделённое расстоянием и идеологией от основных сил Братства, это меньшинство смогло создать новое Братство Стали. Такое, которое отражало идеалы, к которым они стремились всё это время. В конце концов они были побеждены движением Разорителей и стали тенью самих себя."
+
 lang["#FACTION_ENCLAVE_NAME"] = "Анклав"
 lang["#FACTION_ENCLAVE_DESC"] = "Неизвестная военизированная организация, появившаяся совсем недавно. Никто ничего не знает ни о них, ни о том, какова их цель. Большинство даже не знают об их существовании."
 lang["#FACTION_ENCLAVE_ALLIED"] = "Союзник"
@@ -108,6 +120,9 @@ lang["#FACTION_PHOENIXCOMPANY_NAME"] = "Компания \"Феникс\""
 lang["#FACTION_PHOENIXCOMPANY_DESC"] = "Компания \"Феникс\" - это организация наёмников, основанная бывшими Регуляторами, которые отвергли жестокость своей бывшей группы. Известные своей дисциплинированной структурой и военным опытом, они предлагают защиту и боевые услуги по всей пустоши."
 lang["#FACTION_TRADEGUILD_NAME"] = "Каскадный караван"
 
+lang["#FACTION_ALIEN_NAME"] = "Чужие"
+lang["#FACTION_ALIEN_DESC"] = "Ммм, муравей"
+
 lang["#FACTION_ICEPICK"] = "Ледорубы"
 lang["#FACTION_SMREJECTS"] = "Отвергнутые"
 lang["#FACTION_UNITY"] = "Избранные Единства"
@@ -117,6 +132,11 @@ lang["#FACTION_BANDITRUSTLER"] = "Дельцы"
 lang["#FACTION_BANDIT80S"] = "Племя 80-х"
 lang["#FACTION_DESERTRANGER_NAME"] = "Пустынные рейнджеры"
 lang["#FACTION_SHADOWED"] = "Тени"
+lang["#FACTION_REAVERS"] = "Разорители"
+lang["#FACTION_REAVERS_DESC"] = "Движение \"Разорители\" - это религиозный культ, посвящённый поклонению технологиям, действующий на Среднем Западе. Недавно они начали новый крестовый поход в Катлер-Сити. С их фанатизмом может сравниться только техника, которой они владеют в бою."
+
+lang["#FACTION_VANGRAFF_NAME"] = "Ван Граффы"
+lang["#FACTION_VANGRAFF_DESC"] = "Семья Ван Графф - одна из крупнейших преступных группировок на востоке. Они занимаются производством широкого спектра энергетического оружия, добываемого и распространяемого сомнительными способами. Они известны своей безжалостностью, но невероятно преданны своей семье."
 
 -- Laws
 lang["#LAW_MURDER_NAME"] = "Убийство"
@@ -137,7 +157,7 @@ lang["#LAW_ASSAULT_ACCESSORY_NOTIFY"] = "$altPlayer, участник вашей
 
 lang["#LAW_THEFT_NAME"] = "Кража"
 lang["#LAW_THEFT_DESC"] = "Определяется как захват имущества, которое вам не принадлежит."
-lang["#LAW_THEFT_NOTIFY"] = "Вы были пойманы на краже у организации ($faction)! Если украдите слишком много, они могут стать враждебными по отношению к вам."
+lang["#LAW_THEFT_NOTIFY"] = "Вы украли у организации ($faction)! Если украдёте слишком много, они могут стать враждебными по отношению к вам."
 
 lang["#LAW_BOSRESELL_NAME"] = "Распределение технологий"
 lang["#LAW_BOSRESELL_DESC"] = "Распространение технологии организации ($faction) является серьёзным преступлением, к которому нельзя относиться легкомысленно. За этот проступок на вас была наложена метка смерти."
@@ -159,7 +179,7 @@ lang["#STOVE_NAME"] = "Плита"
 lang["#RELOADINGBENCH_NAME"] = "Верстак снаряжения и патронов"
 lang["#WEAPONBENCH_NAME"] = "Оружейный верстак"
 
-lang["#POWERARMORFAB_NAME"] = "Изготовитель силовой брони"
+lang["#POWERARMORFAB_NAME"] = "Изготовитель Братства"
 
 
 -- Terminal
@@ -229,6 +249,7 @@ lang["#AMMOFACTORY_DESC"] = [[
 	Чтобы обеспечить соответствие производства стандартам РобКо, убедитесь, что генератор снабжён ядерным материалом, распределители мощности должным образом обслуживаться, и постоянно поставляться медные грузы, которые поступают на завод. Спасибо и удачного дня РобКо!
 ]]
 lang["#AMMOFACTORY_PRESS_NAME"] = "Гидравлический пресс CHME-1000JL"
+lang["#PC_AMMOFACTORY_PRESS_NAME"] = "Бытовой пресс для металла \"РОБКО\""
 
 -- New Format for terminals, put the title of the button in [brackets]
 lang["#ASHLANDMINE_NAME"] = "Место раскопок в Эшлэнде"
@@ -261,5 +282,120 @@ lang["#INEU_GREGSETUP_DESC"] = [[
 lang["#BOS_BUNKER"] = "Бункер Братства Стали"
 
 lang["#RANGER_BUNKER"] = "Бункер рейнджеров"
+
+-- EVENTS
+lang["#EVENT_ENCLAVEDROP_BROADCAST"] = "Звук отдалённых роторов винтокрылов раздаётся по всей территории..."
+
+-- 	Door Names
+lang["#UI_ELEVATOR"] = "Лифт"
+lang["#UI_CAVE"] = "Пещера"
+lang["#UI_INDUSTRIAL"] = "Промышленная дверь"
+lang["#UI_MOUND"] = "Насыпь"
+lang["#UI_DOOR"] = "Дверь"
+lang["#UI_TENT"] = "Палатка"
+lang["#UI_MANHOLE"] = "Люк"
+lang["#UI_PIPE"] = "Труба"
+lang["#UI_BOAT"] = "Лодка"
+lang["#UI_ELEVATOR_LEVEL_1"] = "Лифт на 1-й уровень"
+lang["#UI_ELEVATOR_LEVEL_2"] = "Лифт на 2-й уровень"
+lang["#UI_ELEVATOR_LEVEL_3"] = "Лифт на 3-й уровень"
+
+lang["#UI_TELEPORTERBLOCK_FACTION_FAVOR"] = "У вас не достаточно пользы у организации [$faction], чтобы войти.\n\nВам нужно: $favorRequired\nВы имеете: $favorCurrent\n\nПолучите пользу, выполняя задания организации: $faction."
+lang["#UI_TELEPORTERBLOCK_FACTION_HOSTILE"] = "Сейчас вы находитесь во враждебных отношениях с организацией: $faction\n\nВы не можете войти в эту зону."
+lang["#UI_TELEPORTERBLOCK_FACTION_REPRESENT"] = "Вы должны представлять организацию [$faction], чтобы войти!\n\nВы можете представлять организацию, получив достаточно пользы и нажав на организацию в меню репутации."
+lang["#UI_TELEPORTERBLOCK_FACTION_MEMBER"] = "Вы должны быть официальным членом организации [$faction], чтобы войти!\n\nВы можете стать официальным членом, пройдя набор в игре или через $officialChannel." -- $officialChannel will be "website" or "discord" depending on the server's configuration.
+lang["#UI_TELEPORTERBLOCK_FACTION_HOSTILEWORK"] = "Вы не можете войти, потому что ваша польза к вражеской организации, [$hostileFaction], выше, чем у организации [$minFavor]. Сейчас: $favorCurrent."
+lang["#UI_TELEPORTERBLOCK_FACTION_HOSTILEWORK_NORECOVER"] = "Из-за ваших действий, вам больше не рады этой организации."
+
+
+--[[
+ █████╗ ██╗██╗     ███╗   ███╗███████╗███╗   ██╗████████╗███████╗
+██╔══██╗██║██║     ████╗ ████║██╔════╝████╗  ██║╚══██╔══╝██╔════╝
+███████║██║██║     ██╔████╔██║█████╗  ██╔██╗ ██║   ██║   ███████╗
+██╔══██║██║██║     ██║╚██╔╝██║██╔══╝  ██║╚██╗██║   ██║   ╚════██║
+██║  ██║██║███████╗██║ ╚═╝ ██║███████╗██║ ╚████║   ██║   ███████║
+╚═╝  ╚═╝╚═╝╚══════╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═══╝   ╚═╝   ╚══════╝
+]]
+
+--Poison
+lang['#POISON_GREENGECKO'] = "Ядовитый плевок"
+lang['#VENOM_RADSCORPION'] = "Жало радскорпиона"
+--Disease minor
+lang['#DISEASE_JUMBLES'] = "Путаница"
+lang['#DISEASE_LIMPWRIST'] = "Сломано запястье"
+lang['#DISEASE_FUMIGATIONS'] = "Окуривание"
+lang['#DISEASE_VAPORS'] = "Испарения"
+lang['#DISEASE_WATERBRAIN'] = "Скопление жидкости в мозге"
+lang['#DISEASE_MYOPIA'] = "Близорукость"
+lang['#DISEASE_BINFECTION'] = "Бактериальная инфекция"
+lang['#DISEASE_HEADACHE'] = "Сильная головная боль"
+lang['#DISEASE_CROTCHROT'] = "Раздражение в паху"
+lang['#DISEASE_TWITCHLIPS'] = "Подёргивание губ"
+lang['#DISEASE_BRONCHITIS'] = "Бронхит"
+lang['#DISEASE_COUGH'] = "Лёгкий кашель"
+--Disease Major
+lang['#DISEASE_BIGWEAKNESS'] = "Слабость"
+lang['#DISEASE_BRAINCONGESTION'] = "Гниение мозга"
+lang['#DISEASE_SLURS'] = "Неразборчивость"
+lang['#DISEASE_GLASSYEYES'] = "Стеклянные глаза"
+lang['#DISEASE_TARLUNG'] = "Дёготь легкого"
+lang['#DISEASE_CRUNCH'] = "Хрустящие судороги"
+lang['#DISEASE_CALAMITOUS'] = "Пагубная сыпь"
+lang['#DISEASE_BADLUCK'] = "Невезение"
+
+lang['#DISEASE_BONEITIS'] = "Бонеитис"
+--Effect
+lang['#BITE_GOLDGECKO'] = "Радиоактивный укус"
+lang['#MELEE_REAVER'] = "Объятие потрошителя"
+lang['#MELEE_PARASITE'] = "Заражение паразитами"
+lang['#MELEE_PACK_HUNTING'] = "Охота в стае"
+lang['#MELEE_SWAMP_ROT'] = "Болотная гниль"
+lang['#MELEE_CONTAMINATED_WOUND'] = "Загрязнённая рана"
+lang['#MELEE_SPORE_INFECTION'] = "Споровая инфекция"
+lang['#MELEE_GLOWING'] = "Свечение"
+
+--Special
+lang['#DISEASE_HALLOWEENCURSE'] = "Проклятие"
+
+--Notifications
+lang["#NOTIFY_WEAPON_BROKEN"] = "Оружие сломано!"
+lang["#NOTIFY_WEAPON_JAM"] = "Оружие дало осечку!"
+lang["#NOTIFY_WEAPON_CND"] = "Состояние"
+lang["#NOTIFY_ARMOR_BROKEN"] = "Ваша броня сломана и больше не может быть использована!"
+lang["#NOTIFY_OVERECUMBERED_1"] = "У вас слишком много вещей! Вы движетесь медленнее."
+lang["#NOTIFY_OVERECUMBERED_2"] = "У вас слишком много вещей! Вы не можете бежать."
+lang["#NOTIFY_OVERECUMBERED_3"] = "У вас слишком много вещей! Вы не можете двигаться."
+lang["#NOTIFY_SKILLTOOLOW"] = "Вы не соответствуете требованиям навыка."
+lang["#NOTIFY_SATIATIONEND"] = "Вы больше не сыты."
+lang["#NOTIFY_WANTED"] = "[ В РОЗЫСКЕ ]"
+lang["#NOTIFY_ROLLED"] = "[РУЛЕТКА] $person получает случайное число: $number."
+lang["#NOTIFY_YOUROLLED"] = "[РУЛЕТКА] Вы получили случайное число: $number."
+lang["#NOITFY_HEADROLL"] = "Получено случайное число: $number"
+lang["#UI_NOTCURRENTLYPOSSIBLE"] = "Невозможно"
+lang["#UI_HPFULL"] = "ОЗ полон."
+lang["#UI_STIMPAKACTIVE"] = "Ваш последний стимулятор всё ещё активен!"
+lang["#UI_CHEMACTIVE"] = "Ваш последний химикат всё ещё активен!"
+lang["#UI_STIMBLOCKED"] = "Стимблок всё ещё активен!"
+lang["#UI_CHEMBLOCKED"] = "Химблок всё ещё активен!"
+lang["#UI_REBOUNDRECOVERY"] = "Вы всё ещё восстанавливаетесь после последнего рикошета!"
+lang["#UI_ADDICTED"] = "У вас возникла зависимость ($item)"
+lang["#UI_NOTADDICTED"] = "У вас пропала зависимость ($item)"
+lang["#UI_WITHDRAWAL"] = "$item изъят"
+lang["#UI_DELAYED"] = "Отложено: $time"
+lang["#UI_WAITTOUSE"] = "Вы должны подождать $time сек., чтобы использовать это!"
+lang["#UI_WANTEDBY"] = "Разыскивается организацией: $faction"
+lang["#UI_BLOCKEDBY"] = "$aid нельзя использовать из-за: $name!"
+lang["#UI_CANTSTEALFROMFACTION"] = "Вы не можете красть у организации, с которой вы заодно."
+
+-- Inventory
+lang["#INV_ADDED"] = "$item - предмет получен"
+lang["#INV_REMOVED"] = "$item - предмет удалён"
+lang["#INV_REMOVEDMULTI"] = "$item ($count) - предмет удалён"
+lang["#EQUIPDENY_NOSLOTS"] = "Вы не можете это надеть/взять."
+lang["#EQUIPDENY_ANIMSET"] = "Оно не подходит для вас."
+lang["#EQUIPDENY_NOPOWERARMOR"] = "Чтобы надеть это, вы должны быть в силовой броне."
+lang["#EQUIPDENY_INSUFFICIENTLEVEL"] = "Ваша броня не может поддерживать этот предмет брони."
+
+lang["#EIGHTBALL_REMOVED"] = "ПРОГНОЗЫ: НЕ ТАКИЕ ПРЕКРАСНЫЕ."
 
 RELOADSCHEMA = true
