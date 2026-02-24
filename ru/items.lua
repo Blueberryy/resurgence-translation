@@ -887,7 +887,7 @@ lang["#STEELCASINGNAME"] = "Стальная гильза -"
 lang["#BRASSCASINGNAME"] = "Латунная гильза -"
 lang["#HULLCASINGNAME"] = "Пластик. гильза -"
 lang["#JUNKROUND_NAME"] = "Мусор"
-lang["#AMMOBOX_NAME"] = "Коробка боепр.,"
+lang["#AMMOBOX_NAME"] = "Коробка боепр.:"
 
 --- Bobbleheads
 
