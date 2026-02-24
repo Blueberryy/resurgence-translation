@@ -73,5 +73,5 @@ lang["#LOCATION_KNEEDEEP_SMUGGLER_LCAMP"] = "Большой лагерь кон�
 
 lang["#LOCATION_SALEM_SURVIVORSCAMP"] = "Лагерь выживших"
 lang["#LOCATION_SALEM_BONETRENCHES"] = "Костные впадины"
-lang["#LOCATION_SALEM_SHADOWFORT"] = "Крепость Теней"
+lang["#LOCATION_SALEM_SHADOWFORT"] = "Крепость Теневых"
 lang["#LOCATION_SALEM_POWER"] = "Электростанция Салема"

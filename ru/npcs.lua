@@ -298,8 +298,8 @@ lang["#NPC_SMUGGLERBANDIT_RANK3"] = "Наркоделец"
 lang["#NPC_SMUGGLERBANDIT_RANK4"] = "Лунный пророк" --"Moon-Curser", a name for someone who smuggles contraband during the dark of night
 lang["#NPC_SMUGGLERBANDIT_RANK5"] = "Торговец смертью" --"Death Merchant", a derogatory name for an Arms/Weapons dealer
 --Shadowed
-lang["#NPC_SHADOWEDBANDIT"] = "Рейдер Теней"
-lang["#NPC_SHADOWEDBANDITS"] = "Рейдеров Теней"
+lang["#NPC_SHADOWEDBANDIT"] = "Рейдер Теневых"
+lang["#NPC_SHADOWEDBANDITS"] = "Рейдеров Теневых"
 lang["#NPC_SHADOWEDBANDIT_RANK1"] = "Халявщик"
 lang["#NPC_SHADOWEDBANDIT_RANK2"] = "Похититель"
 lang["#NPC_SHADOWEDBANDIT_RANK2_OVERWATCH"] = "Наводчик"
