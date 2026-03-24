@@ -285,6 +285,7 @@ lang["#UI_APPLY"] = "Apply"
 lang["#UI_RCancel"] = "Cancel @+Reload "
 lang["#UI_SPACEConfirm"] = "Confirm @+Jump "
 lang["#UI_CONFIRM"] = "Confirm"
+lang["#UI_SELECT"] = "Select"
 lang["#UI_DELETE"] = "Delete"
 lang["#UI_AREYOUSURE"] = "Are you sure?"
 lang["#UI_CANCEL"] = "Cancel"
@@ -486,6 +487,12 @@ lang["#STAT_DRUNK1"] = "Buzzed"
 lang["#STAT_DRUNK2"] = "Drunk"
 lang["#STAT_DRUNK3"] = "Intoxicated"
 lang["#STAT_DRUNK4"] = "Wasted"
+lang["#STAT_SAFEZONEBUFF"] = "Safe Zone Buff"
+lang["#STAT_SAFEZONEDEBUFF"] = "Safe Zone Debuff"
+
+-- Status Effects Display
+lang["#STAT_PVP_DISABLED"] = "Player Damage Disabled" -- for the safe zone buff applied as you're leaving a safe zone.
+lang["#STAT_DAMAGE_MULT"] = "Damage Multiplier: $mult%"
 
 --Display timer
 lang["#UI_DOWNNOTICE"] = "Recovering..."
@@ -1253,6 +1260,10 @@ lang["#SETTING_PVP_REPORT_CRIMES_DESC"] = "Report Crimes against me to protectin
 
 lang["#UI_SAFEZONE_ENTER"] = "Entering Safe Zone"
 lang["#UI_SAFEZONE_EXIT"] = "Exiting Safe Zone"
+
+-- Warning to tell a player to get a way from a safe zone if they're too close to prevent safe zone camping
+lang["#UI_SAFEZONE_DEBUFF_WARNING"] = "You are too close to a safe zone - you will be debuffed in $time seconds if you don't move away!"
+lang["#UI_PVP_DISABLED"] = "PVP Disabled" -- used to replace the "protected by" in the UI if the player has PVP disabled by, say, a status effect.
 
 lang["#SETTING_PVP_PROTECTION_ENABLED"] = "Faction Protection settings are Enabled"
 lang["#SETTING_PVP_PROTECTION_DISABLED"] = "Faction Protection settings are Disabld!"
