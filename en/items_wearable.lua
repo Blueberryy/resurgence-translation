@@ -128,6 +128,7 @@ lang["#SM_COMBAT_LEGS_HEAVY_NAME"] = "SM Heavy Combat Legs"
 lang["#SM_COMBAT_HELMET_NAME"] = "SM Combat Helmet"
 lang["#SM_COMBAT_LIGHT_NAME"] = "SM Light Combat"
 lang["#SM_COMBAT_STURDY_NAME"] = "SM Sturdy Combat"
+lang["#SM_COMBAT_HEAVY_NAME"] = "SM Heavy Combat"
  
 --Helmet Name
 lang["#REDBERETGASMASK_NAME"] = "Red Beret Gas Mask"
@@ -407,6 +408,7 @@ lang["#WIG9_NAME"] = "Messy Wig"
 --SPECIAL WIGS
 lang["#WIGPOMPADOUR_NAME"] = "Pompadour Wig"
 lang["#WIGCONE_NAME"] = "Cone Wig"
+lang["#WIGRECEDING_NAME"] = "Receding Hairline"
 
 --MODSLOTS
 lang["#MODSLOT_SPECIAL"] = "S.P.E.C.I.A.L. Modifiers"
@@ -441,9 +443,9 @@ lang["#MERCENARYARMOR_DESC"] = "Phoenix Company Branded Combat Armor. Meant to b
 lang["#MARINEARMOR_DESC"] = "US military-grade combat armor that was designed to protect key sections of the human body from ballistic trauma. Provides excellent resistance to energy weapons."
 lang["#DESERTRANGER_DESC"] = "A USMC-issued armor boasting a desert camouflage pattern, from the same manufacturer as police riot armor.\n\nMade to be worn with a matching military helmet with built-in gas mask, Desert Rangers commonly pair it with an olive green duster and a pair of worn-out khaki pants."
 lang["#DIVINGSUIT_DESC"] = "The Armored Diving Suit, also known as a standard diving dress, consists of a fully-enclosed canvas diving suit with a spherical helmet, bronze armor plating, and an oxygen tank strapped to the back.\n\nResistant to a wide range of enviromental hazards and enabled one to breathe underwater, but its prohibitive weight and bulk wll slow any wearer considerably."
-lang["#ENCLAVEARMORMK2_DESC"] = "A further improvement on Advanced Power Armor Mark I.\n\nThis armor is a prototype and is one of a kind; one of a vanishingly small production model. So new that it isn't technically authorized for field use yet. The latest, the greatest, and the best.\n\nHow can the enemies of America hope to stand against this?"
+lang["#ENCLAVEARMORMK2_DESC"] = "A further improvement on Advanced Power Armor Mark I.\n\nThis armor is a prototype; one of a vanishingly small production model. So new that it isn't technically authorized for field use yet. The latest, the greatest, and the best. This armor offers none of the creature comforts of the APA Mk.1 and is purely built for maximum power and efficiency.\n\nHow can the enemies of America hope to stand against this?"
 lang["#INITIATERECON_DESC"] = "Intended to serve as the under-armor of the T-45d power armor, the recon armor is a vacuum-sealed asbestos jumpsuit covering the entire body. Attached to it is the interface and mounts for the T-45d power armor. Its purpose is twofold: it allows the user to actually operate the armor and protect soft tissue from moving parts inside the suit and heat. Unlike the under armor for the T-51b power armor models, this one is also designed to offer limited protection from anti-personnel weapons."
-lang["#BATTLEARMOR_DESC"] = "A surviving set of the US military's UBAS (Universal Battle Armor System), an arguably ineffective attempt to update their previous style of combat armor. Slim, sleek and stylish,  while leaving some of its predecessor's modularity behind." -- Description by Max the Wanderer
+lang["#BATTLEARMOR_DESC"] = "A surviving set of the US military's UBAS (Universal Battle Armor System), an arguably ineffective attempt to update their previous style of combat armor. Slim, sleek and stylish, while leaving some of its predecessor's modularity behind." -- Description by Max the Wanderer
 lang["#VIMESFAMILYTESLA_DESC"] = "A well worn set of Advanced Power Armor retrofitted with Tesla attraction coils, providing excellent protection against energy weapons. This set has seen generations of soldiers in the Vimes family though many battles and wears the scars with pride."
 lang["#RHOMBUSTESLA_DESC"] = "A set of uniquely modded T-51b power armor, revered by the Lost Hills Chapter to an almost religious degree. It is the power armor once worn by Rhombus, the first High Elder outside the Maxson bloodline. It was considered an immense honor for the armor to be gifted to the Northern Chapter for use by their Elders."
 lang["#ADVANCEDPOWER_DESC"] = "Some say they've seen heavily armed groups patrolling the coast with armor like this. Looks high tech and seems to be the strongest armor you've ever seen."
@@ -780,6 +782,7 @@ lang["#NULLSGOGGLES_DESC"] = "A set of lucky goggles belonging to one Kameleo Nu
 lang["#GLASSES_DESC"] = "Frames with magnified lenses, allowing those with bad eyesight to see better."
 lang["#POLICEGLASSES_DESC"] = "Glasses, but cooler."
 lang["#WIG1_DESC"] = "For when you've got no time for a haircut, or have a bad history with patterns."
+lang["#WIGRECEDING_DESC"] = "The best that a Super Mutant could hope for."
 lang["#WIGPOMPADOUR_DESC"] = "For when your hair has left the building."
 lang["#WIGCONE_DESC"] = "For when you need to stand out like a sore thumb. Literally."
 lang["#DEATHCLAWHUNTERMASK_DESC"] = "A trapper hat combined with a camoflauged face covering and goggles. How does this help with hunting deathclaws again?"
@@ -904,6 +907,7 @@ lang["#MOD_ATOMICPAINT_NAME"] = "Atomic Paintjob"
 lang["#MOD_FORESTRANGERPAINT_NAME"] = "Forest Ranger Paintjob"
 lang["#MOD_FORESTPAINT_NAME"] = "Forest Paintjob"
 lang["#MOD_CRIMSONPAINT_NAME"] = "Crimson Paintjob"
+lang["#MOD_PINKPAINT_NAME"] = "Pink Paintjob"
 
 -- OVERCOAT NAME
 lang["#MOD_ARMOR_OVERCOAT_INFUSED_NAME"] = "Overcoat Infused Armor Mod"
@@ -1055,6 +1059,8 @@ lang["#MOD_ATOMICPAINT_DESC"] = "A coating of a sickly red, green, or yellow. Us
 lang["#MOD_FORESTRANGERPAINT_DESC"] = "A coating of darker greens and browns. Used by those who call the Yolla Bolly Valley their home."
 lang["#MOD_FORESTPAINT_DESC"] = "A coating of lighter greens and browns. Used by those who prefer spring forests to summer ones."
 lang["#MOD_CRIMSONPAINT_DESC"] = "A coating of crimson red. Used by those who seek to wear the motif of blood."
+lang["#MOD_PINKPAINT_DESC"] = "When everyone’s pink... no one will be.." -- NEED DESC
+
 
 
 -- OVERCOAT DESC

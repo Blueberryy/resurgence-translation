@@ -63,9 +63,9 @@ lang["#MISSION_TWEAK_INTHEGROUND_DESC"] = "Ghouls, Mirelurks, a lot of good work
 lang["#MISSION_TWEAK_INTHEGROUND_HINT"] = "Eliminate one giant ant. They can be found in the tunnels behind the factory."
 lang["#MISSION_TWEAK_INTHEGROUND_COMPLETE"] = "The soldiers are a lot more dangerous than the workers. Great work rookie, you earned this one."
 
-lang["#MISSION_TWEAK_TROOPERS"] = "Taking On the Troopers"
+lang["#MISSION_TWEAK_TROOPERS"] = "Taking on the Troopers"
 lang["#MISSION_TWEAK_TROOPERS_DESC"] = "Have you spent any amount of time in the NCR, rookie? Corporate swine, lobbyists, petty tyrants, and sycophants clinging to the old world like it will bring them deliverance... hmph.\n\nToday you're going to be striking at the symbol of their power; the humble trooper. Don't let their unkempt and ragged appearance fool you; NCR troopers are formidable. Their plate carriers can tank low caliber rounds, so you may need to bring something beefier or aim for their unprotected limbs. If you take down a patrol, you'll have proved your worth enough to officially join the tribe."
-lang["#MISSION_TWEAK_TROOPERS_HINT"] = "Eliminate two NCR Troopers of any kind. They can commonly be found patrolling the streets of Salt Wells. Attacking NCR Troopers will get you a bounty with the NCR, so be careful!"
+lang["#MISSION_TWEAK_TROOPERS_HINT"] = "Eliminate two NCR soldiers of any kind. They can commonly be found patrolling the streets of Salt Wells. Attacking NCR Troopers will get you a bounty with the NCR, so be careful!"
 lang["#MISSION_TWEAK_TROOPERS_COMPLETE"] = "Your initiation is over; welcome to the 80s. You should head into camp and meet Gridlock."
 
 lang["#MISSION_TWEAK_DAMAGEREPAIR"] = "Damage Repair"

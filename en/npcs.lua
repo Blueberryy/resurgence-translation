@@ -132,6 +132,7 @@ lang["#NPC_YAOGUAI_RANK4"] = "Dusky Yao Guai"
 lang["#NPC_YAOGUAI_RANK5"] = "Yao Guai Ghoul"
 lang["#NPC_YAOGUAI_RANK6"] = "Irradiated Yao Guai"
 lang["#NPC_YAOGUAI_RANK7"] = "Glowing Yao Guai"
+lang["#NPC_YAOGUAI_ALBINO"] = "Frenzied Yao Guai"
 -- Bloodworm
 lang["#NPC_BLOODWORM"] = "Bloodworm"
 lang["#NPC_BLOODWORMS"] = "Bloodworms"
@@ -190,6 +191,7 @@ lang["#NPC_MIRELURK_SPAWN_RANK2"] = "Glowing Mirelurk Spawn"
 -- Mirelurk Queen
 
 -- Mirelurk King
+lang["#NPC_DEEPONE"] = "The Deep One"
 
 -- Angler
 lang["#NPC_ANGLER"] = "Angler"
@@ -241,6 +243,7 @@ lang["#NPC_80SBANDIT_RANK6"] = "Pain-Train"
 -- New California Republic
 lang["#NPC_NCRTROOPER"] = "NCR Trooper"
 lang["#NPC_NCRTROOPERS"] = "NCR Troopers"
+lang["#NPC_NCRSOLDIERS"] = "NCR Soldiers"
 lang["#NPC_NCRSOLDIER"] = "Trooper"
 lang["#NPC_NCRQUARTERMASTER"] = "Quartermaster Hector"
 lang["#NPC_NCRARMORYQUARTERMASTER"] = "Lieutenant Barnes"
@@ -302,7 +305,7 @@ lang["#NPC_ROCKBITERBANDIT_RANK6"] = "Marauder"
 
 -- Smugglers
 lang["#NPC_SMUGGLERBANDIT"] = "Smuggler"
-lang["#NPC_SMUGGLERRBANDITS"] = "Smugglers"
+lang["#NPC_SMUGGLERBANDITS"] = "Smugglers"
 lang["#NPC_SMUGGLERBANDIT_RANK1"] = "Runner"
 lang["#NPC_SMUGGLERBANDIT_RANK2"] = "Dealer"
 lang["#NPC_SMUGGLERBANDIT_RANK2_OVERWATCH"] = "Look-Out"
@@ -326,6 +329,15 @@ lang["#NPC_SHADOWEDBANDIT_BOSS"] = "The Oathbreaker"
 lang["#NPC_REAVERSBANDIT"] = "Reaver Bandit"
 lang["#NPC_REAVERSBANDITS"] = "Reaver Bandits"
 lang["#NPC_REAVERSBANDIT_RANK1"] = "Pioneer"
+lang["#NPC_REAVERSBANDIT_RANK2"] = "Breacher"
+lang["#NPC_REAVERSBANDIT_RANK3"] = "Technocrat"
+lang["#NPC_REAVERSBANDIT_RANK4"] = "Exulum"
+lang["#NPC_REAVERSBANDIT_RANK5"] = "Praetorian"
+lang["#NPC_REAVERSBANDIT_RANK6"] = "Legate"
+
+lang["#NPC_REAVERSSUPERMUTANT_RANK1"] = "Gammorin Opprimo"
+lang["#NPC_REAVERSSUPERMUTANT_RANK1"] = "Gammorin Saboter"
+lang["#NPC_REAVERSSUPERMUTANT_RANK1"] = "Gammorin Exulum"
 
 -- Mercenaries
 lang["#NPC_MERC"] = "Mercenary"
@@ -363,6 +375,7 @@ lang["#NPC_BOS_SOLDIER_SCRIBE4"] = "Senior Scribe" ---------------------Scribe
 
 --Enclave
 lang["#NPC_ENCLAVE"] = "Enclave"
+lang["#NPC_ENCLAVE_SPECOPS"] = "Enclave Spec Ops"
 lang["#NPC_ENCLAVE_SCOUT"] = "Soldier"
 lang["#NPC_ENCLAVE_RECON"] = "Soldier"
 lang["#NPC_ENCLAVE_PA"] = "Patrolman"
@@ -542,6 +555,7 @@ lang["#NPC_DEATHCLAW_RANK3"] = "Deathclaw Chameleon"
 lang["#NPC_DEATHCLAW_RANK4"] = "Deathclaw Alpha Male"
 lang["#NPC_DEATHCLAW_RANK5"] = "Deathclaw Matriarch"
 lang["#NPC_DEATHCLAW_RANK6"] = "Chameleon Deathclaw Alpha Male"
+lang["NPC_DEATHCLAW_BOSS"] = "Unguem Mortis"
 
 lang["#NPC_GATORCLAW"] = "Gatorclaw"
 lang["#NPC_GATORCLAWS"] = "Gatorclaws"

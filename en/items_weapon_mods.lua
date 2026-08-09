@@ -248,6 +248,7 @@ lang["#MOD_CAPACITOR_YK42B_LARGE_NAME"] = "YK42B Large Capacitor"
 
 lang["#MOD_DEV_TRUEPERF_NAME"] = "True Perforator Conversion Kit"
 lang["#MOD_KIT_WATTZ_NAME"] = "Wattz 2000 Overclock Kit"
+lang["#MOD_KIT_BEATONPROTOTYPE_NAME"] = "Tesla-Beaton Prototype Kit"
 
 lang["#MOD_RECEIVER_NEWWOOD_PIPESEMI_NAME"] = "Pipegun New Wooden Frame"
 lang["#MOD_RECEIVER_SHADOW_PIPESEMI_NAME"] = "Pipegun Shadowed Frame"
@@ -386,6 +387,7 @@ lang["#MOD_BARREL_GAUSSMINIGUNPENTA_NAME"] = "Gauss Minigun Penta-Barrel"
 lang["#MOD_BARREL_CHINALAKE_LONGTUBE_NAME"] = "China Lake Longtube Barrel"
 lang["#MOD_BARREL_CHINALAKE_EXTENDED_NAME"] = "China Lake Extended Barrel"
 lang["#MOD_BARREL_VSK_SNIPER_NAME"] = "VSK Long Barrel"
+lang["#MOD_BARREL_EXTENDED_BOZAR_NAME"] = "Bozar Extended Barrel"
 
 
 lang["#MICROGUN_NAME"] = "5mm Microgun"
@@ -427,6 +429,7 @@ lang["#MOD_MUZDEV_BRAKE_9SMG_NAME"] = "9mm SMG Muzzle Brake"
 lang["#MOD_MUZDEV_BRAKE_10SMG_NAME"] = "10mm SMG Muzzle Brake"
 
 --MAG
+lang["#MOD_MAG_BOZAR_NAME"] = "Bozar Extended Box Magazine"
 lang["#MOD_MAG_ACARBINE34_NAME"] = "Assault Carbine Extended Magazine"
 lang["#MOD_MAG_R9130_NAME"] = "Assault Rifle 30rd Magazine"
 lang["#MOD_MAG_R9140_NAME"] = "Assault Rifle 40rd Magazine"
@@ -542,6 +545,7 @@ lang["#MOD_STOCK_MGUN_RUBBER_NAME"] = "LMG Rubber Grip"
 lang["#MOD_STOCK_CHINALAKE_NAME"] = "China Lake Stock"
 lang["#MOD_STOCK_CHINALAKE_MARKSMAN_NAME"] = "China Lake Marksman Stock"
 lang["#MOD_STOCK_CHINALAKE_LIGHT_NAME"] = "China Lake Lightweight Stock"
+lang["#MOD_STOCK_10SMG_NAME"] = "10mm SMG Stock"
 
 lang["#MOD_STOCK_LGUN_TACTIC_NAME"] = "Laser Pistol Comfort Grip"
 lang["#MOD_STOCK_LGUN_NAME"] = "Laser Rifle Stock"
@@ -570,6 +574,7 @@ lang["#MOD_SEAR_AUTO+_PIPEGUN_NAME"] = "Pipegun Tuned Auto Sear"
 lang["#MOD_SEAR_AKM_AUTO_NAME"] = "Soviet Rifle Auto Sear"
 lang["#MOD_SEAR_357REV_FHAMMER_NAME"] = ".357 Revolver Feathered Hammer Spring"
 lang["#MOD_SEAR_5MM_NAME"] = "5mm Minigun Hi-Speed Motor"
+lang["#MOD_SEAR_LBOLT_10SMG_NAME"] = "10mm SMG Light Bolt"
 
 lang["#MOD_SEAR_BURST_RCW_NAME"] = "Laser RCW Burst Repeater"
 lang["#MOD_SEAR_M72_NAME"] = "M72 Gauss Driver Auto Sear"
@@ -601,6 +606,7 @@ lang["#MOD_CAPACITOR_GAUSSMINIGUN_DYNAMO_DESC"] = "A modification to the Gauss M
 lang["#MOD_CAPACITOR_GAUSSMINIGUN_TESLA_DESC"] = "A significantly stronger capacitor for the Gauss Minigun, adding an explosive effect to rounds.\n\nProjectiles become explosive, magazine size is increased, and damage is increased."
 lang["#MOD_SOLARCANNON_CHARGECONVERSION_DESC"] = "A specialized assembly engineered for the Solar Cannon prototype, designed to concentrate a significant volume of solar energy within a catalytic chamber. This energy is extracted from the microfusion cell and stored until optimal charge is achieved. Upon reaching peak energy levels, the stored energy is released into the barrel, where it undergoes rapid acceleration to extreme velocities before being directed toward the target with precision."
 
+lang["#MOD_KIT_BEATONPROTOTYPE_DESC"] = "Tesla-Beaton Prototype Kit." -- NEED DESC
 lang["#MOD_KIT_WATTZ_DESC"] = "The official Wattz 2000 overclocking kit, for those who want to go even further beyond.\n\nIncreases weapon damage and reduces accuracy loss at the cost of ammo efficiency."
 
 lang["#MOD_RECEIVER_NEWWOOD_PIPESEMI_DESC"] = "A quality wooden frame for pipe weapons.\n\nImproves overall durability of the firearm, increasing total shots that can be fired before repair is required."
@@ -729,6 +735,7 @@ lang["#MOD_BARREL_HMGUN_LONG_DESC"] = "An extended barrel for the T-24 machine g
 lang["#MOD_BARREL_M79_DESC"] = "An extended barrel for the Break-Action Grenade Rifle.\n\nIncreases effective range by doubling velocity of grenades fired."
 lang["#MOD_BARREL_BAR_SHORT_FINNED_DESC"] = "An finned barrel for the Browning Automatic Rifle.\n\nReduces spread downrange."
 lang["#MOD_BARREL_BAR_LONG_DESC"] = "An extended barrel for the Browning Automatic Rifle.\n\nIncreases the weapons effective range."
+lang["#MOD_BARREL_EXTENDED_BOZAR_DESC"] = "An extended barrel for the Bozar.\n\nIncreases overall damage and velocity of your rounds."
 lang["#MOD_BARREL_BAR_FINNED_LONG_DESC"] = "An extended finned barrel for the Browning Automatic Rifle.\n\nIncreases the weapons effective range while simultaneously reducing spread."
 lang["#MOD_MAG_AVENGER_DESC"] = "A drum magazine for the Avenger Minigun.\n\nContains a whopping 330 bullets!"
 lang["#MOD_BARREL_LONG_AVENGER_DESC"] = "An extended barrel for the Avenger Minigun, increasing spin-up time and decreasing rate of fire in exchange for increased damage and accuracy.\n\nI hope this hurts you as much as it does me."
@@ -743,7 +750,7 @@ lang["#MOD_BARREL_VSK_SNIPER_DESC"] = "A long barrel for the VSK marksman rifle.
 lang["#MOD_BARREL_LONG_SOLARCANNON_DESC"] = "A long barrel for the Solar Cannon.\n\nSetting things on fire at close range not enough? Now the concentrated power of the sun can go further!"
 
 lang["#MOD_BARREL_LGUN_LONG_DESC"] = "A rifle length housing for the Laser Gun, 9th generation.\n\nIncreases damage and accuracy down range at the cost of a slightly lower capacity and slightly more wear to weapon while firing.\n\nIf not for this ''barrel's'' robust titanium crystal housing, it would have fallen completely out of focus mere decades after the bombs fell, like its more fragile successors."
-lang["#MOD_BARREL_LGUN_ULTIMA_DESC"] = "Ultima Barrel"
+lang["#MOD_BARREL_LGUN_ULTIMA_DESC"] = "The ultimate barrel for the laser rifle. \n\nConverts the weapon to automatic, and greatly increases the output and accuracy of the weapon."
 lang["#MOD_BARREL_LGUN_AUTO_DESC"] = "A rotating housing assembly for the Laser Gun.\n\nMassively increases the weapons fire rate, at the cost of lower damage output per shot and inferior accuracy.\n\nThese ''multi-barreled'' assemblies were cost prohibative to produce, and few saw use outside of a handful of specialty units."
 lang["#MOD_BARREL_LGUN_SOUP_DESC"] = "A heavily re-designed rifle housing for the Laser Gun.\n\nConverts Laser Gun into a manually charged weapon with an increased maximum damage, at the cost of a reduced fire rate.\n\nA series of innerlinked crystal arrays and capacitors housed in an oversized body to prevent it all from melting. Try to keep the lenses clean."
 lang["#MOD_BARREL_HEAVY_GLASER_DESC"] = "A re-designed barrel assembly for the Gatling Laser.\n\nIncreases damage, at the cost of a reduced fire rate and increased spin-up time."
@@ -767,6 +774,7 @@ lang["#MOD_MUZZLE_TRIBEAM_FOCUSOPTICS_DESC"] = "An add-on modification for the T
 lang["#MOD_MUZZLE_GAUSSRIFLE_DESC"] = "An add-on modification for the Gauss Rifle. \n\nDecreases the noise of the weapon when firing."
 
 --MAG
+lang["#MOD_MAG_BOZAR_DESC"] = "An extended magazine for the Bozar. \n\n45 round capacity. Get the lead out."
 lang["#MOD_MAG_ACARBINE34_DESC"] = "An extended magazine for the Assault Carbine.\n\n34 round capacity.\n\nSpray and pray, to make the ''other guy'' holey."
 lang["#MOD_MAG_R9130_DESC"] = "An extended magazine for the Assault Rifle.\n\n30 round capacity.\n\n''PROPERTY OF U.S. NATIONAL GUARD'' is stamped along one side. I don't think they'll miss it."
 lang["#MOD_MAG_R9140_DESC"] = "An extended magazine for the Assault Rifle.\n\n40 round capacity.\n\nThese larger than standard magazines saw infreqent use Pre-War, and few surviving examples exist today."
@@ -874,7 +882,7 @@ lang["#MOD_STOCK_VSK_DESC"] = "A folding stock for most 9x39 weapons"
 lang["#MOD_STOCK_VSK_SNIPER_DESC"] = "A wooden stock for most 9x39 weapons"
 lang["#MOD_DEV_TRUEPERF_DESC"] = "If some dumbfuck GM gives this out to a player, you're getting eaten. I'm tearing you limb from limb."
 lang["#MOD_STOCK_MARKSMAN_SOLARCANNON_DESC"] = "A recoil-dampening stock for the Solar Cannon.\n\nNow burning your enemies alive from a distance hurts your shoulder less!"
-
+lang["#MOD_STOCK_10SMG_DESC"] = "A lightweight wire stock for the 10mm Submachine Gun.\n\nReduces felt recoil while firing.\n\nThis stock was popular with paratroopers, and is a common sight on the battlefields of the resource wars."
 
 lang["#MOD_STOCK_RCW_DESC"] = "A factory standard stock for the Laser RCW.\n\nReduces felt recoil while firing."
 
@@ -900,6 +908,7 @@ lang["#MOD_SEAR_AUTO+_PIPEGUN_DESC"] = "A tuned auto sear for the Pipegun.\n\nFi
 lang["#MOD_SEAR_AKM_AUTO_DESC"] = "A Pre-War auto sear for the Soviet Rifle.\n\nFires continuously while the trigger is held.\n\nFully automatic rifles excel in close quarters combat, but accuracy suffers greatly at range."
 lang["#MOD_SEAR_357REV_FHAMMER_DESC"] = "A modified hammer spring designed with ''fanning'' in mind.\n\nGreatly increases rate of fire at the cost of accuracy.\n\nAll the speed of your favorite Pre-War western radio serials, with none of the mythical skill."
 lang["#MOD_SEAR_5MM_DESC"] = "A replacememnt motor for the 5mm Minigun.\n\nIncreases fire rate by 25%.\n\nMake this Pre-war monster roar!"
+lang["#MOD_SEAR_LBOLT_10SMG_DESC"] = "A lighter bolt allowing the smg to cycle bullet faster."
 
 lang["#MOD_SEAR_BURST_RCW_DESC"] = "A modified rate-of-fire regulator for the Laser RCW.\n\nConverts weapon to 3-shot burst fire, and increases firing speed."
 lang["#MOD_SEAR_M72_DESC"] = "A modified rate-of-fire regulator for the M72 Gauss Driver.\n\nConverts the weapon to have an increased firing speed."
@@ -933,6 +942,7 @@ lang["#MOD_BBAT_HANDLE_TAPE_NAME"] = "Baseball Bat Handle Tape"
 lang["#MOD_BBAT_BODY_METAL_NAME"] = "Baseball Bat Aluminium Body"
 lang["#MOD_MACHETE_BLADE_SERRATED_NAME"] = "Machete Serrated Blade"
 lang["#MOD_PFIST_HEAD_REBAR_NAME"] = "Power Fist Rebar Mod"
+lang["#MOD_DRILLFIST_HEAD_HARVEST_NAME"] = "Drill Fist Harvester Mod"
 lang["#MOD_SLEDGE_HEAD_CINDER_NAME"] = "Sledge Hammer Cinderblock Mod"
 lang["#MOD_SUPERSLEDGE_HEAD_HEATED_NAME"] = "Super Sledge Heating Coil Mod"
 -- Descriptions
@@ -945,6 +955,7 @@ lang["#MOD_CROWBAR_HEAD_SAW_DESC"] = "A modification that can be attached to the
 lang["#MOD_CROWBAR_HANDLE_HANDMADE_DESC"] = "A modification that can be attached to the handle of a crowbar. Handmade, and makes it so much easier to grip while swinging."
 lang["#MOD_BBAT_HEAD_BARBED_DESC"] = "A modification that can be attached to the head of a baseball bat. It's barbed wire, will definitely hurt the first target you strike with it."
 lang["#MOD_BBAT_HEAD_NAILS_DESC"] = "A modification that can be attached to the head of a baseball bat. Classic, nails in a baseball bat."
+lang["#MOD_DRILLFIST_HEAD_HARVEST_DESC"] = "A modification that can be attached to the head of a drill fist. Drastically increases harvesting speeds of certain resources."
 lang["#MOD_BBAT_HANDLE_TAPE_DESC"] = "A modification that can be attached to the handle of a baseball bat. Makes gripping the weapon a lot easier, especially while swinging it."
 lang["#MOD_BBAT_BODY_METAL_DESC"] = "A new body for the baseball bat. Though banned in the major leagues, aluminium bats were common for recreational use. Lighter and more durable than wooden bats."
 lang["#MOD_MACHETE_BLADE_SERRATED_DESC"] = "A blade modification for the machete. Swinging this at someone might hurt a lot more than usual."

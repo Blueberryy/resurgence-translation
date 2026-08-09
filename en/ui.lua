@@ -952,6 +952,7 @@ lang["#MISSIONBOARD_GIVER_FALLBACK"] = "Local Contractors"
 lang["#MISSION_ACCEPT"] = "Accept Mission"
 lang["#MISSION_ACCEPT_ONHOSTILE"] = "ACCEPTING MISSION FROM HOSTILE FACTION!\n\nCompleting this mission will make this faction neutral towards you and they will no longer attack you on sight\n\nATTACKING THEM WILL INCUR A CRIME!"
 lang["#MISSION_TURNIN"] = "Turn In"
+lang["#MISSION_TURNIN_MISSION"] = "Turn In: $missionName"
 lang["#MISSION_COMPLETE"] = "Completed."
 lang["#MISSION_KILLS"] = "Kills"
 lang["#MISSION_SELECTREWARD"] = "You've completed the mission. Select a reward."
@@ -1273,6 +1274,8 @@ lang["#SETTING_PVP_PROTECTION_CHARGED"] = "You cannot take or do damage because 
 lang["#SETTING_PVP_ATTACKER_INFACTION"] = "You cannot take or do damage do this individual because they are protected by your faction, the $faction."
 lang["#SETTING_PVP_FACTION_PROTECTION"] = "You cannot damage Faction Members!"
 lang["#SETTING_PVP_FACTION_PROTECTED_BY"] = "Protected by the $factions."
+
+lang["#PVP_APPLYITEMFAIL_PVPSTATE"] = "You cannot apply this item to the target because their PVP State does not match yours"
 
 
 lang["#ITEM_FAKE"] = "Counterfeit"

@@ -74,7 +74,17 @@ lang["#MISSION_YOLLA_GREENEYES_DESC"] = "Contract from Toolmaster Hendrik. The D
 lang["#MISSION_YOLLA_GREENEYES_HINT"] = "Kill a Desert Ranger. They are powerful, so approach with caution."
 lang["#MISSION_YOLLA_GREENEYES_COMPLETE"] = "Contract Completed. Return in a few hours for another bounty."
 
-lang["#MISSION_YOLLA_POWERTHECELL"] = "Making sure the Lights stay on"
+lang["#MISSION_YOLLA_SNAKECHARMER"] = "Snake Charmer" -- Does not repeat
+lang["#MISSION_YOLLA_SNAKECHARMER_DESC"] = "Open contract. The boys have started a betting pool, anyone can join in. The first to kill the listed amount of Desert Ranger's using out trusty street sweeper's will earn the whole pot."
+lang["#MISSION_YOLLA_SNAKECHARMER_HINT"] = "Kill a bunch of Desert Rangers using a Street Sweeper shotgun. These guys are no joke, keep your head on a swivel."
+lang["#MISSION_YOLLA_SNAKECHARMER_COMPLETE"] = "Contract Completed. Here is your prize, killer. I might reopen a new pot later."
+
+lang["#MISSION_YOLLA_BLOODYREAPER"] = "Bloody Reaper"
+lang["#MISSION_YOLLA_BLOODYREAPER_DESC"] = "Contract from Metaller. A simple extermination of the local ranger population. Killing one of each should do it. Return when it is done."
+lang["#MISSION_YOLLA_BLOODYREAPER_HINT"] = "Kill one of each Desert Ranger type."
+lang["#MISSION_YOLLA_BLOODYREAPER_COMPLETE"] = "Contract Completed. Good work. I may have another contract open up soon."
+
+lang["#MISSION_YOLLA_POWERTHECELL"] = "Keeping the lights on"
 lang["#MISSION_YOLLA_POWERTHECELL_DESC"] = "Contract from the Toolmasters. Need some nuclear material from the silo area and some microfusion cells to keep it going, do your part."
 lang["#MISSION_YOLLA_POWERTHECELL_HINT"] = "Obtain nuclear material and microfusion cells. You can get nuclear material from the Silo, and microfusion cells from various vendors, protectrons, or energy weapon lockers."
 lang["#MISSION_YOLLA_POWERTHECELL_COMPLETE"] = "Contract completed. Return in a few hours for another bounty."

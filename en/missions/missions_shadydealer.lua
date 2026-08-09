@@ -48,4 +48,15 @@ lang["#MISSION_SHADYDEALER_SPECIALEDUCATION2_DESC"] = "Still Not happy with how 
 
 lang["#MISSION_SHADYDEALER_SPECIALEDUCATION3"] = "S.P.E.C.I.A.L Education 3" -- 3 and beyond will use the same description as as 2
 
+-- I want you to know I have sourced all the text from the feature request on discord, i wonder if anyone will notice.
+lang["#MISSION_SHADYDEALER_PINK1"] = "WE NEED PINK" 
+lang["#MISSION_SHADYDEALER_PINK1_DESC"] = "I need pink paint. If its not pink I dont want it. No pink? Pink. I love pink please PLEASE. I NEED THE PINK."
+lang["#MISSION_SHADYDEALER_PINK1_HINT"] = "Hand over 20 Cherry Bombs..."
+lang["#MISSION_SHADYDEALER_PINK1_COMPLETE"] = "How did I go this long without pink..."
+
+lang["#MISSION_SHADYDEALER_PINK2"] = "Daily reminder, PINK"
+lang["#MISSION_SHADYDEALER_PINK2_DESC"] = "PINK. Pink soon..."
+lang["#MISSION_SHADYDEALER_PINK2_HINT"] = "Hand over 5 Cherry Bombs..."
+lang["#MISSION_SHADYDEALER_PINK2_COMPLETE"] = "A new day. A new PINK!"
+
 RELOADSCHEMA = true

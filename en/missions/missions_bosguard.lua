@@ -10,7 +10,7 @@ local lang = RSRG.Languages["en"]
 -- Mission Giver
 lang["#MISSION_GIVER_BOSGUARD"] = "Paladin Percival"
 lang["#MISSION_GIVER_BOSGUARD_SUBTITLE"] = "Brotherhood Paladin"
-lang["#MISSION_GIVER_BOSGUARD_NEW"] = "Halt, wastelander. By order of Elder Galahad, this station is under the authority of the Brotherhood of Steel. Only those with our authorization may enter. \n\nIf you missed the hint, you are not on that list."
+lang["#MISSION_GIVER_BOSGUARD_NEW"] = "Halt, wastelander. By order of Elder Casdin, this station is under the authority of the Brotherhood of Steel. Only those with our authorization may enter. \n\nIf you missed the hint, you are not on that list."
 lang["#MISSION_GIVER_BOSGUARD_N0"] = "Have you come crawling back to us to beg forgiveness, cur? I'd rather shoot you where you stand, but frankly our needs outweigh my beliefs. Here's how you can earn forgiveness."
 lang["#MISSION_GIVER_BOSGUARD_0"] = "Didn't I already tell you to make yourself useful?"
 lang["#MISSION_GIVER_BOSGUARD_25"] = "Alright, you are not totally worthless, but you still have more to do before I permit you access."

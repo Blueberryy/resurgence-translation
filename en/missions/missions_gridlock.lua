@@ -68,7 +68,7 @@ lang["#MISSION_GRIDLOCK_EXPLORE_COMPLETE"] = "You need not tell me of your explo
 
 lang["#MISSION_GRIDLOCK_COMBATII"] = "Combat Training - II"
 lang["#MISSION_GRIDLOCK_COMBATII_DESC"] = "Sending you to cull ghouls is a waste of your talents. Instead, I will unleash you back onto the New California Republic. I want you and you alone to engage a fireteam of NCR Troopers and destroy them. Tweak has informed me that you handled two without issue; four should be no greater a challenge.\n"
-lang["#MISSION_GRIDLOCK_COMBATII_HINT"] = "Kill four NCR Troopers. They can be found patrolling the roads of Salt Wells."
+lang["#MISSION_GRIDLOCK_COMBATII_HINT"] = "Kill four NCR soldiers. They can be found patrolling the roads of Salt Wells."
 lang["#MISSION_GRIDLOCK_COMBATII_COMPLETE"] = "The echo of gunfire and the lamentations of the dying tell me all the story I need. Well done."
 
 lang["#MISSION_GRIDLOCK_TAKING"] = "Taking What We Need"

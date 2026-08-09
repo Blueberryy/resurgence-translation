@@ -186,7 +186,30 @@ lang["#POWERARMORFAB_NAME"] = "Brotherhood Fabricator"
 
 -- Terminal
 lang["#TERMINAL_TITLE"] = "ROBCO INDUSTRIES UNIFIED OPERATING SYSTEM\nCOPYRIGHT 2075-2077 ROBCO INDUSTRIES"
-lang["#TERMINAL_DEFAULT"] = "My Computer"
+lang["#TERMINAL_DEFAULT"] = "Terminal"
+lang["#TERMINAL_DOOR_ACTIVATE"] = "Activate"
+lang["#TERMINAL_NO_DATA"] = "NO DATA FOUND"
+
+lang["#HACK_HEADER"] = "SECURITY CHALLENGE: %s"
+lang["#HACK_OBSERVE"] = "OBSERVE SEQUENCE..."
+lang["#HACK_INPUT"] = "INPUT SEQUENCE  [%d / %d]"
+lang["#HACK_WRONG"] = "WRONG SEQUENCE  [%d ATTEMPTS LEFT]"
+lang["#HACK_GRANTED"] = "ACCESS GRANTED"
+lang["#HACK_DENIED"] = "ACCESS DENIED — TERMINAL LOCKED"
+lang["#HACK_SKILL_TITLE"] = "SCIENCE SKILL INSUFFICIENT"
+lang["#HACK_SKILL_BODY"] = "Required: %d     Current: %d"
+lang["#HACK_LOCKED_BODY"] = "This terminal has locked you out.\nAnother operator may still attempt access."
+lang["#HACK_HUD_UNLOCKED"] = "Unlocked"
+lang["#HACK_HUD_LOCKED"] = "Locked"
+lang["#HACK_LOCKOUT_TITLE"] = "TERMINAL ACCESS DENIED"
+lang["#HACK_LOCKOUT_BODY"] = "This terminal has locked your access.\nSequence resets in: %s"
+lang["#HACK_LOCKOUT_BODY_UNK"] = "This terminal has locked your access.\nWait for the sequence to reset."
+
+
+-- Door States
+lang["#DOOR_OPEN"]      = "Open"
+lang["#DOOR_CLOSE"]     = "Close"
+lang["#DOOR_LOCKED"]    = "Locked"
 
 
 

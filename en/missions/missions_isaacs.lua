@@ -28,7 +28,7 @@ lang["#MISSION_ISAAC_LEATHERYORDER_HINT"] = "Obtain Leather. It can be found by 
 lang["#MISSION_ISAAC_LEATHERYORDER_COMPLETE"] = "Alright, I'll get this to the guy. Here you go."
 
 lang["#MISSION_ISAAC_MEDICINALS"] = "Combat Medicine"
-lang["#MISSION_ISAAC_MEDICINALS_DESC"] = "back to help again? Just got an order for Stimpaks, a few of them. If you can't find any, I'd recommend talking to Headcase in the Doctors house. I'll have some payment ready for you."
+lang["#MISSION_ISAAC_MEDICINALS_DESC"] = "Back to help again? Just got an order for Stimpaks, a few of them. If you can't find any, I'd recommend talking to Headcase in the Doctors house. I'll have some payment ready for you."
 lang["#MISSION_ISAAC_MEDICINALS_HINT"] = "Obtain Stimpaks. They can be scavenged, crafted, or bought from traders."
 lang["#MISSION_ISAAC_MEDICINALS_COMPLETE"] = "I'll take care of my part, here you go."
 
@@ -85,5 +85,20 @@ lang["#MISSION_ISAAC_SPECIALKINDOFHIDE"] = "Special Kind Of Hide"
 lang["#MISSION_ISAAC_SPECIALKINDOFHIDE_DESC"] = "I just had an old friend stop by not too long ago, and he asked me if I could help him with a project, and it's actually the last part of something that he needs for whatever he's making. Anyways, to quickly explain it, he want's some Deathclaw Hide. I can definitely understand if you do not want to go and get this, but I can tell you that the reward for it will definitely be worth it. That is, if you don't die. It's also possible you could find someone who is willing to give it to you too."
 lang["#MISSION_ISAAC_SPECIALKINDOFHIDE_HINT"] = "Obtain Deathclaw Hide. You can obtain it if you have the scale skinning perk and manage to kill a Deathclaw."
 lang["#MISSION_ISAAC_SPECIALKINDOFHIDE_COMPLETE"] = "Wow, did you actually kill a deathclaw for this? I mean you could've traded for it."
+
+lang["#MISSION_ISAAC_CRIMSONCARAVANINVESTNCR"] = "Branch Investment: NCR Dollars"
+lang["#MISSION_ISAAC_CRIMSONCARAVANINVESTNCR_DESC"] = "$playername, we need some capital to help our local branch, in the form of NCR dollars. Do you think you can help us?"
+lang["#MISSION_ISAAC_CRIMSONCARAVANINVESTNCR_HINT"] = "Obtain 2500 NCR Dollars and return to Isaac."
+lang["#MISSION_ISAAC_CRIMSONCARAVANINVESTNCR_COMPLETE"] = "Thank you $playername, Crimson Caravan won't forget your help."
+
+lang["#MISSION_ISAAC_CRIMSONCARAVANINVESTCAPS"] = "Branch Investment: Caps"
+lang["#MISSION_ISAAC_CRIMSONCARAVANINVESTCAPS_DESC"] = "$playername, we need some capital to help our local branch, in the form of caps. Do you think you can help us?"
+lang["#MISSION_ISAAC_CRIMSONCARAVANINVESTCAPS_HINT"] = "Obtain 3000 Caps and return to Isaac."
+lang["#MISSION_ISAAC_CRIMSONCARAVANINVESTCAPS_COMPLETE"] = "Thank you $playername, Crimson Caravan won't forget your help."
+
+lang["#MISSION_ISAAC_CRIMSONCARAVANGRANDOPENING"] = "Salt Wells Branch Grand Opening!"
+lang["#MISSION_ISAAC_CRIMSONCARAVANGRANDOPENING_DESC"] = "With all the help you've given me $playername, headquarters is confident about opening a branch in this region. We just need a little more starting capital and the doors will be open."
+lang["#MISSION_ISAAC_CRIMSONCARAVANGRANDOPENING_HINT"] = "Obtain 15000 NCR Dollars and 18000 Bottlecaps and return to Isaac."
+lang["#MISSION_ISAAC_CRIMSONCARAVANGRANDOPENING_COMPLETE"] = "Here's the key $playername, the branch is open now. Shop to your heart's content!"
 
 RELOADSCHEMA = true

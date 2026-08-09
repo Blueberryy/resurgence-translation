@@ -96,7 +96,7 @@ lang["#MISSION_PHILLIPS_FOODPREP_COMPLETE"] = "Holy shit you actually did it. Th
 
 -- Repeatables, given after Path of the Ranger are completed.
 lang["#MISSION_PHILLIPS_DRUG_SEIZURE"] = "Drug Seizure"
-lang["#MISSION_PHILLIPS_DRUG_SEIZURE_DESC"] = "You did good work previously clearing up the roads up north, but those drug peddlers in Mountain Pass have been taking advantage of it push their filth down south. I need you to interrupt their schemes and let them know they ain't welcome down south."
+lang["#MISSION_PHILLIPS_DRUG_SEIZURE_DESC"] = "You did good work previously clearing up the roads up north, but those drug peddlers in Mountain Pass have been taking advantage of it to push their filth down south. I need you to interrupt their schemes and let them know they ain't welcome down south."
 lang["#MISSION_PHILLIPS_DRUG_SEIZURE_HINT"] = "Kill 10 Cipher Agents in the Mountain Pass Region"
 lang["#MISSION_PHILLIPS_DRUG_SEIZURE_COMPLETE"] = "Hopefully that'll show them what happens when they try and expand their \"operations\" towards our home."
 
